@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: ""
+  - title: "Research"
+    url: /research/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
+  - title: "Opportunities"
+    url: /opportunities/
+  - title: "Contact"
+    url: /contact/
