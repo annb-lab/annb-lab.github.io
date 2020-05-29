@@ -66,3 +66,5 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+theme: jekyll-theme-minimal
