@@ -34,7 +34,7 @@ name: "Alex N Nguyen Ba"
 remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
-
+  - jekyll-include-cache
 
 include:
   - _pages
