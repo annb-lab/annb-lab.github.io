@@ -52,10 +52,10 @@ feature_row3:
           <div class="archive__item-teaser" style="float:none;display:table-cell">
 		<div style="display:flex;flex-wrap:wrap">
 			<div>
-            		<img src="/alex/test/_site/assets/images/tj_ap_ke_arc_annb_tekumseh.jpg" alt="" style="max-height:139px;max-width:185px"/>
+            		<img src="/assets/images/tj_ap_ke_arc_annb_tekumseh.jpg" alt="" style="max-height:139px;max-width:185px"/>
 			</div>
 			<div>
-           		 <img src="/alex/test/_site/assets/images/tj_krl_annb_pierce.jpg" alt="" style="max-height:139px;max-width:185px" />
+           		 <img src="/assets/images/tj_krl_annb_pierce.jpg" alt="" style="max-height:139px;max-width:185px" />
 			</div>
 		</div>
           </div>
