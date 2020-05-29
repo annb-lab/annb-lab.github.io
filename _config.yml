@@ -21,7 +21,7 @@
 title: annb.lab
 masthead_title: annb.lab
 title_separator: "-"
-email: test@example.com
+email: alex.nguyenba@utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website for Alex N. Nguyen Ba's lab.
 baseurl: /_site # the subpath of your site, e.g. /blog
