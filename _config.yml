@@ -24,14 +24,14 @@ title_separator: "-"
 email: test@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website for Alex N. Nguyen Ba's lab.
-baseurl: /alex/test/_site # the subpath of your site, e.g. /blog
-url: http://www.moseslab.csb.utoronto.ca # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: /_site # the subpath of your site, e.g. /blog
+url: http://annb-lab.github.io # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: alex_nguyen_ba
+github_username:  annb-lab
 name: "Alex N Nguyen Ba"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
