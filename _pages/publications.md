@@ -11,6 +11,10 @@ feature_row:
 
 
 <ol>
+	<li>Zulauf K*, Green A*, <b>Nguyen Ba AN</b>, Jagdish T, Reif D, Seeley R, Dale A, Kirby J: 
+<b><b>Microwave-generated steam decontamination of N95 respirators utilizing universally accessible materials.</b></b>
+<i>mBio</i>. 2020, In Press, Reference number mBio00997-20</li>
+	
 	<li>Kuzmin E*, VanderSluis B*, <b>Nguyen Ba AN</b>, Wang Wen, Koch EN, Freisen H, Usaj M, Khmelinskii A, Usaj MM, van Leeuwen J, Kraus O, Tresenrider A, Pryszlak M, Hu M, Varriano B, Hanchaard J, Costanzo M, Caudy A, Unal E, Knop M, Moses AM, Myers CL, Andrews BJ, Boone C: 
 <b><b>Exploring whole-genome duplicate gene retention with complex genetic interaction analysis.</b></b>
 <i>Science</i>. 2020, In Press, Reference number aaz5667</li>
