@@ -26,7 +26,7 @@ feature_row3:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/katherine.jpg
-    excerpt: "Katherine Lawrence"
+    excerpt: "Katherine Lawrence<br>krlawrence26@gmail.com"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
