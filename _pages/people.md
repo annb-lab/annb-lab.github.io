@@ -20,8 +20,9 @@ feature_row2:
     body_style: "text-align: center;"
     style: "width:150px;"
 feature_row3:
-  - image_path: /assets/images/genome.png
-    excerpt: "Mentee 1"
+  - image_path: /assets/images/tanush.png
+    excerpt: "Tanush Jagdish<br>tanush.jagdish@gmail.com"
+    body_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/genome.png
     excerpt: "Mentee 2"
