@@ -23,6 +23,7 @@ feature_row3:
   - image_path: /assets/images/tanush.jpg
     excerpt: "Tanush Jagdish<br>tanush.jagdish@gmail.com"
     body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/genome.png
     excerpt: "Mentee 2"
