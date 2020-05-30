@@ -30,8 +30,10 @@ feature_row3:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
-    excerpt: "Mentee 3"
+  - image_path: /assets/images/artur.jpg
+    excerpt: "Artur Rego-Costa<br>arturregocosta@gmail.com"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/genome.png
     excerpt: "Mentee 4"
