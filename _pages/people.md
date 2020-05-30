@@ -20,7 +20,7 @@ feature_row2:
     body_style: "text-align: center;"
     style: "width:150px;"
 feature_row3:
-  - image_path: /assets/images/tanush.png
+  - image_path: /assets/images/tanush.jpg
     excerpt: "Tanush Jagdish<br>tanush.jagdish@gmail.com"
     body_style: "text-align: center;"
     style: "width:150px;"
