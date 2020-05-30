@@ -35,8 +35,10 @@ feature_row3:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
-    excerpt: "Mentee 4"
+  - image_path: /assets/images/chris.jpg
+    excerpt: "Chris Bakerlee<br>bakerchrisw[at]gmail.com"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/genome.png
     excerpt: "Mentee 5"
