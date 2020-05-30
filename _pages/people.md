@@ -21,17 +21,17 @@ feature_row2:
     style: "width:150px;"
 feature_row3:
   - image_path: /assets/images/tanush.jpg
-    excerpt: "Tanush Jagdish<br>tanush.jagdish@gmail.com"
+    excerpt: "Tanush Jagdish<br>tanush.jagdish[at]gmail.com"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/katherine.jpg
-    excerpt: "Katherine Lawrence<br>krlawrence26@gmail.com"
+    excerpt: "Katherine Lawrence<br>krlawrence26[at]gmail.com"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/artur.jpg
-    excerpt: "Artur Rego-Costa<br>arturregocosta@gmail.com"
+    excerpt: "Artur Rego-Costa<br>arturregocosta[at]gmail.com"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
