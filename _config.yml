@@ -29,6 +29,9 @@ twitter_username: alex_nguyen_ba
 github_username:  annb-lab
 name: "Alex N Nguyen Ba"
 
+# Search engine
+google-site-verification: 9Y2f7nrPSTnvHeyJiMulKaO-l064WmQOXIiKGfcOtyo
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 plugins:
