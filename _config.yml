@@ -25,7 +25,8 @@ email: test@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Alex N. Nguyen Ba's lab website.
 url: https://annb-lab.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter.username: alex_nguyen_ba
+twitter: 
+  username: alex_nguyen_ba
 github_username:  annb-lab
 name: "Alex N Nguyen Ba"
 
