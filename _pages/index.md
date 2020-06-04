@@ -12,6 +12,7 @@ excerpt: >-
 show_title: False
 title: Home
 alt_title: Alex N. Nguyen Ba's lab website
+description: Alex N. Nguyen Ba's lab website
 feature_row:
   - excerpt: "We are a group of experimental biologists, computer scientists, and physicists broadly interested in quantitative genetics and evolution. <b>We use high-throughput and high-resolution approaches to tackle the big questions in these fields by building on the latest advances in synthetic biology and computer science.</b>
 Projects aim to develop new technologies to comprehensively explore the mutational landscape of cells and understand what evolution acts on. We work closely with theorists and statistical biologists to leverage the vast amount of information that can now be produced using high-throughput robotic liquid handling and next-generation sequencing techniques. 
