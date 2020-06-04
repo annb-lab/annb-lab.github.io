@@ -11,6 +11,7 @@ excerpt: >-
   Next-generation technologies for high-throughput quantitative genetics and evolution.
 show_title: False
 title: Home
+author: Alex N. Nguyen Ba
 alt_title: Alex N. Nguyen Ba's lab website
 description: Alex N. Nguyen Ba's lab website
 feature_row:
