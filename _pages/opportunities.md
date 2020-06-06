@@ -1,6 +1,7 @@
 ---
 permalink: /opportunities/
 title: "Opportunities"
+classes: wide
 ---
 
 <h2>Graduate/Undergraduate Students:</h2>
