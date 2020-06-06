@@ -17,3 +17,7 @@ If you are interested in joining the lab, please contact Alex with a brief intro
 <p>
 If you are potentially interested in a postdoc position in evolutionary dynamics, quantitative genetics, and synthetic biology (or, ideally, some combination of these) please email Alex Nguyen. Include a CV and a brief summary of your research interests and experience.
 </p>
+<h2>Commitments:</h2>
+<p>
+My lab is an open space and is committed to strengthening research excellence and society through equity, diversity and inclusion. Members of underrepresented groups are encouraged to reach out to Alex for opportunities.
+</p>
