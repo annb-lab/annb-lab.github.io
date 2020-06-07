@@ -20,5 +20,5 @@ If you are potentially interested in a postdoc position in evolutionary dynamics
 </p>
 <h2>Commitments:</h2>
 <p>
-My lab is an open space and is committed to strengthening research excellence and society through equity, diversity and inclusion. Members of underrepresented groups are encouraged to reach out to Alex for opportunities.
+My lab is an open space, is accessible, and is committed to strengthening research excellence and society through equity, diversity and inclusion. We participate in active allyship and promote a culture of learning and understanding. Members of underrepresented groups, such as women in STEM, visible minorities, and LGBTQ, are encouraged to reach out to Alex for opportunities.
 </p>
