@@ -40,8 +40,10 @@ feature_row3:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
-    excerpt: "Mentee 5"
+  - image_path: /assets/images/jose.jpg
+    excerpt: "Jose I. Rojas Echenique<br>jose.i.rojas[at]gmail.com"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
     style: "width:150px;"
 
 
