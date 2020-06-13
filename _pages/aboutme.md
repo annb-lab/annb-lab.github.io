@@ -21,7 +21,7 @@ feature_row2:
   - #title: "Academic Background"
     excerpt: "
 	<b> Academic Background </b><br>
-	I was a postdoctoral fellow in <a href='http://www.desai-lab.com/'>Michael Desai's</a> group at Harvard University, and a graduate student in <a href='http://www.moseslab.csb.utoronto.ca/'>Alan Moses'</a> lab at the University of Toronto. Over the years, I've worked closely with cool collaborators like Brenda Andrews, Charlie Boone, Gianni Liti, Sasha Levy, Eric Weiss, and mentored a large number of extremely talented graduate students.
+	I was a postdoctoral fellow in <a href='http://www.desai-lab.com/'>Michael Desai's</a> group at Harvard University, and a graduate student in <a href='http://www.moseslab.csb.utoronto.ca/'>Alan Moses'</a> lab at the University of Toronto. Over the years, I've worked closely with cool collaborators like Brenda Andrews, Charlie Boone, Gianni Liti, Sasha Levy, Eric Weiss, Christian Landry and mentored a large number of extremely talented graduate students.
     "
     body_style: "float:none;display:table-cell;text-align: left;"
 feature_row3:
