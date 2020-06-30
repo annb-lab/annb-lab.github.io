@@ -11,14 +11,14 @@ feature_row:
 
 
 <ol>
+	<li>Kuzmin E*, VanderSluis B*, <b>Nguyen Ba AN</b>, Wang Wen, Koch EN, Freisen H, Usaj M, Khmelinskii A, Usaj MM, van Leeuwen J, Kraus O, Tresenrider A, Pryszlak M, Hu M, Varriano B, Hanchaard J, Costanzo M, Caudy A, Unal E, Knop M, Moses AM, Myers CL, Andrews BJ, Boone C: 
+<b><b>Exploring whole-genome duplicate gene retention with complex genetic interaction analysis.</b></b>
+<i>Science</i>. 2020, Jun 26;368(6498):eaaz5667.</li>
+	
 	<li>Zulauf K*, Green A*, <b>Nguyen Ba AN</b>, Jagdish T, Reif D, Seeley R, Dale A, Kirby J: 
 <b><b>Microwave-generated steam decontamination of N95 respirators utilizing universally accessible materials.</b></b>
 <i>mBio</i>. 2020, Jun 25;11(3):e00997-20.</li>
 	
-	<li>Kuzmin E*, VanderSluis B*, <b>Nguyen Ba AN</b>, Wang Wen, Koch EN, Freisen H, Usaj M, Khmelinskii A, Usaj MM, van Leeuwen J, Kraus O, Tresenrider A, Pryszlak M, Hu M, Varriano B, Hanchaard J, Costanzo M, Caudy A, Unal E, Knop M, Moses AM, Myers CL, Andrews BJ, Boone C: 
-<b><b>Exploring whole-genome duplicate gene retention with complex genetic interaction analysis.</b></b>
-<i>Science</i>. 2020, Jun 26;368(6498):eaaz5667.</li>
-
 	<li>Jerison ER, <b>Nguyen Ba AN</b>, Desai MM, Kryazhimskiy S: 
 <b><b>Chance and necessity in the pleiotropic consequences of adaptation for budding yeast.</b></b>
 <i>Nat. Ecol. Evol</i>. 2020, Apr;4(4):601-611.</li>
