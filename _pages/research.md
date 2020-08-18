@@ -18,7 +18,7 @@ Thousands of polymorphisms in populations are responsible for phenotypic differe
 <h2>Evolution</h2>
 <p>Comparative genomics is the most popular approach to studying evolution. In contrast, our approach is to watch evolution as it happens, in the context of experiments that are performed under controlled conditions. We are interested in the dynamical process of selection and the evolutionary forces behind phenotypic changes.</p>
 <h6><i class='fas fa-flask'></i> Phenotypic evolution</h6>
-<p>Our lab makes use of several <a href="http://myxo.css.msu.edu/index.html">experimental evolution experiments</a> to dissect the cellular basis of adaptation. For example, we know that transcriptional regulation plays a major role in cellular differentiation. However, how <i>evolution</i> tinkers with regulatory networks is less clear.</p>
+<p>Our lab makes use of several <a href="http://myxo.css.msu.edu/index.html">experimental evolution experiments <i class='fas fa-external-link-alt'></a> to dissect the cellular basis of adaptation. For example, we know that transcriptional regulation plays a major role in cellular differentiation. However, how <i>evolution</i> tinkers with regulatory networks is less clear.</p>
 <h6><i class='fas fa-syringe'></i> Vaccinology</h6>
 <p>B-cells undergo a selection process in germinal centers akin to evolutionary dynamics in microbial populations. A quantitative modeling of these processes is critical for developing an understanding of the repeatability of this evolutionary system and how it can be applied to vaccination success.
 </p>
