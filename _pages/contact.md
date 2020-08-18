@@ -10,7 +10,7 @@ Office:<br>
 <i class='far fa-envelope'></i> alex.nguyenba[at]utoronto.ca<br>
 <i class='fas fa-phone'></i> (XXX)-XXX-XXXX<br>
 
-Please note that my lab will be opening officially on January 1rst 2021. I am, however, currently happy to discuss opportunities via Zoom meetings.
+Please note that my lab will be opening officially on January 1st 2021. I am, however, currently happy to discuss opportunities via Zoom meetings.
 
 <h2>Location</h2>
 Our lab is situated at the University of Toronto, Mississauga Campus in the William G. Davis building (DV).
