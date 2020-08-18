@@ -8,7 +8,7 @@ feature_row:
     excerpt: "
 	<div style='text-align: center'><h2 style='margin-top: 0'> Alex N. Nguyen Ba</h2>
 	<a href='https://scholar.google.com/citations?user=_2bRnAMAAAAJ&hl=en' class='btn btn--inverse' target='_blank'><i class='fas fa-user'></i> Google Scholar</a>
-	<a href='mailto:alex.nguyenba@utoronto.ca' class='btn btn--inverse'><i class='far fa-envelope'></i> Email</a>
+	<a href='mailto:alex.nguyenba@utoronto.ca' class='btn btn--inverse'><i class='far fa-envelope'></i> alex.nguyenba[at]utoronto.ca</a>
 	<br>
 	</div>
 	<br>
