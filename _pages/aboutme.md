@@ -12,7 +12,7 @@ feature_row:
 	<br>
 	</div>
 	<br>
-	I'm an Assistant Professor at the <a href='http://www.toronto.edu/'>University of Toronto <i class='fas fa-external-link-alt'></i></a>.<br>
+	I'm an Assistant Professor at the <a href='http://www.toronto.edu/' target='_blank'>University of Toronto <i class='fas fa-external-link-alt'></i></a>.<br>
 	I'm appointed in the Department of Cell & Systems Biology and part of the growing computational biology and high-throughput genetics community in Toronto.
     "
     style: "width:150px"
