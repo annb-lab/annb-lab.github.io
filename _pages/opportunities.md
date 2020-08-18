@@ -9,8 +9,8 @@ classes: wide
 We are always on the lookout for talented students interested in exploring questions about evolution in well-controlled systems and quantitative genetics in all areas of life. Our team is using high-throughput experimental approaches to address these questions (for more on that, see our <a href="../research/">Research</a> page). 
 </p><p>
 Given the interdisciplinary nature of our work, students from a variety of backgrounds (e.g. biology, math, physics, computer science, and engineering) are encouraged to apply. 
-If you are a prospective graduate student, you may join the lab by applying to the <a href="https://csb.utoronto.ca/graduate-studies/prospective-students/">Graduate Program in Cell and Systems Biology</a>. 
-Our lab is also affiliated with the <a href="http://gbb.csb.utoronto.ca/">Genome Biology and Bioinformatics</a> program and students can participate in collaborative interships with the lab.
+If you are a prospective graduate student, you may join the lab by applying to the <a href="https://csb.utoronto.ca/graduate-studies/prospective-students/">Graduate Program in Cell and Systems Biology <i class="fas fa-external-link-alt"></i></a>. 
+Our lab is also affiliated with the <a href="http://gbb.csb.utoronto.ca/">Genome Biology and Bioinformatics <i class="fas fa-external-link-alt"></i></a> program and students can participate in collaborative interships with the lab.
 </p><p>
 If you are interested in joining the lab, please contact Alex with a brief introduction about your background and research interest. 
 </p>
