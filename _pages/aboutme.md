@@ -12,7 +12,7 @@ feature_row:
 	<br>
 	</div>
 	<br>
-	I'm an Assistant Professor at the <a href='http://www.toronto.edu/'>University of Toronto</a>.<br>
+	I'm an Assistant Professor at the <a href='http://www.toronto.edu/'>University of Toronto <i class="fas fa-external-link-alt"></i></a>.<br>
 	I'm appointed in the Department of Cell & Systems Biology and part of the growing computational biology and high-throughput genetics community in Toronto.
     "
     style: "width:150px"
@@ -21,7 +21,7 @@ feature_row2:
   - #title: "Academic Background"
     excerpt: "
 	<b> Academic Background </b><br>
-	I was a postdoctoral fellow in <a href='http://www.desai-lab.com/'>Michael Desai's</a> group at Harvard University, and a graduate student in <a href='http://www.moseslab.csb.utoronto.ca/'>Alan Moses'</a> lab at the University of Toronto. Over the years, I've worked closely with cool collaborators like Brenda Andrews, Charlie Boone, Gianni Liti, Sasha Levy, Eric Weiss, Christian Landry and mentored a large number of extremely talented graduate students.
+	I was a postdoctoral fellow in <a href='http://www.desai-lab.com/'>Michael Desai's <i class="fas fa-external-link-alt"></i></a> group at Harvard University, and a graduate student in <a href='http://www.moseslab.csb.utoronto.ca/'>Alan Moses' <i class="fas fa-external-link-alt"></i></a> lab at the University of Toronto. Over the years, I've worked closely with cool collaborators like Brenda Andrews, Charlie Boone, Gianni Liti, Sasha Levy, Eric Weiss, Christian Landry and mentored a large number of extremely talented graduate students.
     "
     body_style: "float:none;display:table-cell;text-align: left;"
 feature_row3:
