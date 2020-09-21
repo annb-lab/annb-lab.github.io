@@ -12,7 +12,7 @@ Given the interdisciplinary nature of our work, students from a variety of backg
 If you are a prospective graduate student, you may join the lab by applying to the <a href="https://csb.utoronto.ca/graduate-studies/prospective-students/" target="_blank">Graduate Program in Cell and Systems Biology <i class="fas fa-external-link-alt"></i></a>. 
 Our lab is also affiliated with the <a href="http://gbb.csb.utoronto.ca/" target="_blank">Genome Biology and Bioinformatics <i class="fas fa-external-link-alt"></i></a> program and students can participate in collaborative interships with the lab.
 </p><p>
-If you are interested in joining the lab, please contact Alex with a brief introduction about your background and research interest. 
+  If you are interested in joining the lab, please <a href='../contact/'>contact</a> Alex with a brief introduction about your background and research interest. 
 </p>
 <h2>Postdocs:</h2>
 <p>
