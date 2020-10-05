@@ -55,6 +55,6 @@ feature_row3:
 
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
-<h2>Mentees</h2>
+<h2>Mentees/Collaborators</h2>
 During my postdoctoral research in Michael Desai's lab, I was directly involved in the mentorship of several graduate students and remain close to them.
 {% include feature_row id="feature_row3" %}
