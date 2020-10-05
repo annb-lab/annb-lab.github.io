@@ -44,7 +44,7 @@ feature_row3:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/ivana.jpg
+  - image_path: /assets/images/ivana_headshot.jpg
     excerpt: "Ivana Cvijovic<br>cvijovic[at]stanford.edu"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
