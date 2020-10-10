@@ -11,6 +11,10 @@ feature_row:
 
 
 <ol>
+	<li>Johnson MS, Gopalakrishnan S, Goyal J, Dillingham ME, Bakerlee CW, Humphrey PT, Jagdish T, Jerison ER, Kosheleva K, Lawrence KR, Min J, Moulana A, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, McDonald MJ, <b>Nguyen Ba AN</b>, Desai MM: 
+<b><b>Phenotypic and molecular evolution across 10,000 generations in laboratory budding yeast populations.</b></b>
+<i>bioRxiv</i>. 2020, Oct 10.</li>
+	
 	<li>Kuzmin E*, VanderSluis B*, <b>Nguyen Ba AN</b>, Wang Wen, Koch EN, Freisen H, Usaj M, Khmelinskii A, Usaj MM, van Leeuwen J, Kraus O, Tresenrider A, Pryszlak M, Hu M, Varriano B, Hanchaard J, Costanzo M, Caudy A, Unal E, Knop M, Moses AM, Myers CL, Andrews BJ, Boone C: 
 <b><b>Exploring whole-genome duplicate gene retention with complex genetic interaction analysis.</b></b>
 <i>Science</i>. 2020, Jun 26;368(6498):eaaz5667.</li>
