@@ -50,11 +50,19 @@ feature_row3:
     teaser_style: "text-align: center;"
     style: "width:150px;"
 
+feature_row4:
+  - image_path: /assets/images/genome.png
+    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
 
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
+<h2>Undergraduate students</h2>
+{% include feature_row id="feature_row4" %}
 <h2>Mentees/Collaborators</h2>
 During my postdoctoral research in Michael Desai's lab, I was directly involved in the mentorship of several graduate students and remain close to them. I consider these scientists more as collaborators and still work with them as they advance in their careers.
 {% include feature_row id="feature_row3" %}
