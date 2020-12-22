@@ -12,7 +12,7 @@ feature_row:
 
 <ol>
 	<li><b>Nguyen Ba AN*</b>, Lawrence KR*, Rego-Costa A*, Gopalakrishnan S, Desai MM: 
-<b><b>BB-QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
+<b><b>Bulk Barcoded QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
 <i>Submitted</i>. 2020.</li>
 	<li>Johnson MS, Gopalakrishnan S, Goyal J, Dillingham ME, Bakerlee CW, Humphrey PT, Jagdish T, Jerison ER, Kosheleva K, Lawrence KR, Min J, Moulana A, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, McDonald MJ, <b>Nguyen Ba AN</b>, Desai MM: 
 <b><b>Phenotypic and molecular evolution across 10,000 generations in laboratory budding yeast populations.</b></b>
