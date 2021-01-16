@@ -6,7 +6,7 @@ title: "Contact"
 Alex N. Nguyen Ba<br>
 William G. Davis Building<br>
 1867 Inner Circle<br>
-Mississauga Road Mississauga, ON, L5L 1C6<br>
+Mississauga, ON, L5L 1C6<br>
 Lab: DV4090<br>
 Office: DV3251<br>
 <i class='far fa-envelope'></i> alex.nguyenba[at]utoronto.ca<br>
