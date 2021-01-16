@@ -6,11 +6,9 @@ title: "Contact"
 Alex N. Nguyen Ba<br>
 address<br>
 Lab: DV4090<br>
-Office:<br>
+Office: DV3251<br>
 <i class='far fa-envelope'></i> alex.nguyenba[at]utoronto.ca<br>
-<i class='fas fa-phone'></i> (XXX)-XXX-XXXX<br>
-
-Please note that my lab will be opening officially on January 1st 2021. I am, however, currently happy to discuss opportunities via Zoom meetings.
+<i class='fas fa-phone'></i> (905)-828-3729<br>
 
 <h2>Location</h2>
 Our lab is situated at the University of Toronto, Mississauga Campus in the William G. Davis building (DV).
