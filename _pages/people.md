@@ -7,7 +7,7 @@ feature_row1:
     excerpt: "<b> Alex N. Nguyen Ba</b><br>
 	Assistant Professor of Cell and Systems Biology<br>
 	University of Toronto<br>
-	<i class='fas fa-phone'></i> (XXX)-XXX-XXXX<br><br>
+	<i class='fas fa-phone'></i> (905)-828-3729<br><br>
 	<a href='../aboutme/' class='btn btn--inverse'><i class='fas fa-user'></i> About me</a>
 	<a href='mailto:alex.nguyenba@utoronto.ca' class='btn btn--inverse'><i class='far fa-envelope'></i> alex.nguyenba[at]utoronto.ca</a>
 	"
