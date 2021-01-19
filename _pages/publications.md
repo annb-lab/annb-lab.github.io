@@ -16,7 +16,7 @@ feature_row:
 <i>Submitted</i>. 2020.</li>
 	<li>Johnson MS, Gopalakrishnan S, Goyal J, Dillingham ME, Bakerlee CW, Humphrey PT, Jagdish T, Jerison ER, Kosheleva K, Lawrence KR, Min J, Moulana A, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, McDonald MJ, <b>Nguyen Ba AN</b>, Desai MM: 
 <b><b>Phenotypic and molecular evolution across 10,000 generations in laboratory budding yeast populations.</b></b>
-<i>eLife</i>. 2020. In Press.</li>
+<i>eLife</i>. 2021;10:e63910.</li>
 	
 	<li>Kuzmin E*, VanderSluis B*, <b>Nguyen Ba AN</b>, Wang Wen, Koch EN, Freisen H, Usaj M, Khmelinskii A, Usaj MM, van Leeuwen J, Kraus O, Tresenrider A, Pryszlak M, Hu M, Varriano B, Hanchaard J, Costanzo M, Caudy A, Unal E, Knop M, Moses AM, Myers CL, Andrews BJ, Boone C: 
 <b><b>Exploring whole-genome duplicate gene retention with complex genetic interaction analysis.</b></b>
