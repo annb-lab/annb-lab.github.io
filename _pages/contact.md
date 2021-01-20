@@ -5,7 +5,7 @@ title: "Contact"
 
 Alex N. Nguyen Ba<br>
 William G. Davis Building<br>
-1867 Inner Circle<br>
+3359 Mississauga Rd<br>
 Mississauga, ON, L5L 1C6<br>
 Lab: DV4090<br>
 Office: DV3251<br>
