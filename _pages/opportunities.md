@@ -15,7 +15,7 @@ Our lab is also affiliated with the <a href="http://gbb.csb.utoronto.ca/" target
 </p>
 <h2>Undergraduate research:</h2>
 <p>
-Highly motivated students with a desire to learn how we can couple cutting-edge genetics with computational analysis methods and machine learning may apply to gain class credit and work experience through the UTM ROP program (to be available soon!). Priority will be given to students displaying strong evidence of academic excellence, research potential and interpersonal skills. 
+Highly motivated students with a desire to learn how we can couple cutting-edge genetics with computational analysis methods and machine learning for precision medicine and disease prevention may apply to gain class credit and work experience through the UTM ROP program (to be available soon!). Priority will be given to students displaying strong evidence of academic excellence, research potential and interpersonal skills. 
   </p><p>You can find more information on the <a href="https://www.utm.utoronto.ca/experience/rop/" target="_blank">ROP program <i class="fas fa-external-link-alt"></i></a> and the <a href="https://www.utm.utoronto.ca/asc/programs-and-workshops/program-accessing-research-training-part" target="_blank">PART training module <i class="fas fa-external-link-alt"></i></a> on the respective websites. Please <a href='../contact/'>contact</a> Alex with a brief introduction about your research interests and a copy of your transcript. Preference is given to students traditionally underrepresented in these research areas.
 </p>
 <h2>Postdocs:</h2>
