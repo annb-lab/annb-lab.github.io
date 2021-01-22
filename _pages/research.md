@@ -16,7 +16,7 @@ Thousands of polymorphisms in populations are responsible for phenotypic differe
 <p>Our lab is participating in the effort to systematically characterize all functional missense variation in human genes. Our goal is to determine disease risks such as cancer <i>before</i> manifestation of symptoms (shifting medicine to a preventive science), and to reveal genetic determinants of inter-personal differences in molecular pathology to design better treatments,  
 </p>
 <h2>Evolution</h2>
-<p>Comparative genomics is the most popular approach to studying evolution. In contrast, our approach is to watch evolution as it happens, in the context of experiments that are performed under controlled conditions. We are interested in the dynamical process of selection and the evolutionary forces behind phenotypic changes.</p>
+<p>Comparative genomics is the most popular approach to studying evolution. In contrast, our approach is to watch evolution as it happens, in the context of experiments that are performed under controlled conditions. We are interested in the dynamical process of selection and the evolutionary forces behind phenotypic changes. Ultimately, we hope to leverage our understanding of these processes to predict evolution.</p>
 <h6><i class='fas fa-flask'></i> Phenotypic evolution</h6>
 <p>Our lab makes use of several <a href="http://myxo.css.msu.edu/index.html" target="_blank">experimental evolution experiments <i class="fas fa-external-link-alt"></i></a> to dissect the cellular basis of adaptation. For example, we know that transcriptional regulation plays a major role in cellular differentiation. However, how <i>evolution</i> tinkers with regulatory networks is less clear.</p>
 <h6><i class='fas fa-syringe'></i> Vaccinology</h6>
