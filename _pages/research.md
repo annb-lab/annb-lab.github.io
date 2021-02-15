@@ -25,3 +25,8 @@ Thousands of polymorphisms in populations are responsible for phenotypic differe
 <p>
 Our lab aims to understand how vaccine design is related to the underlying evolutionary process behind protective B-cell lineages.
 </p>
+
+<h3>Relevance</h3>
+<p>
+Our work in laboratory environment allows us to determine the relevant parameters of evolution, which can help in understanding and forecasting evolution in the real world. For example, note the evolution of the Sars-CoV-2 variants of concern from Davies et al, 2020, when compared to evolution of yeast lineages in a flask: </p>
+<img src=/assets/images/sars_vs_yeast.png alt="" style="max-height:300;max-width:400" />
