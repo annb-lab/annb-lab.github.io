@@ -31,5 +31,5 @@ Our lab aims to understand how vaccine design is related to the underlying evolu
 
 <h3>Relevance</h3>
 <p>
-Our work in laboratory environments allows us to determine the relevant parameters of evolution, which can help in understanding and forecasting evolution in the real world. For example, note the evolution of the Sars-CoV-2 variants of concern from Davies et al, 2020 (left), when compared to evolution of yeast lineages in a flask (right): </p>
+Our work in laboratory environments allows us to determine the relevant parameters of evolution, which can help in understanding and forecasting evolution in the real world. For example, note the similarity between the evolution of the Sars-CoV-2 variants of concern from Davies et al, 2020 (left), when compared high-resolution lineage tracking of yeast populations in a flask (right): </p>
 <img src="/assets/images/sars_vs_yeast.png" alt="" style="max-height:300;max-width:400" />
