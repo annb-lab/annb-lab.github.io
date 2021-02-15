@@ -15,6 +15,9 @@ Thousands of polymorphisms in populations are responsible for phenotypic differe
 <h6><i class='fas fa-briefcase-medical'></i> Precision medicine</h6>
 <p>Our lab is participating in the effort to systematically characterize all functional missense variation in human genes. Our goal is to determine disease risks such as cancer <i>before</i> manifestation of symptoms (shifting medicine to a preventive science), and to reveal genetic determinants of inter-personal differences in molecular pathology to design better treatments,  
 </p>
+<h3>Relevance</h3>
+<p>We hope to develop machine learning models of the cell to bring new insight into biological diseases. Examples of current projects aim to develop technologies for regenerative medicine in addressing aggregation-prone proteins found in Parkinson's and for screening disregulations that lead to cancers.
+  </p>
 <h2>Evolution</h2>
 <p>Comparative genomics is the most popular approach to studying evolution. In contrast, our approach is to watch evolution as it happens, in the context of experiments that are performed under controlled conditions. We are interested in the dynamical process of selection and the evolutionary forces behind phenotypic changes. Ultimately, we hope to leverage our understanding of these processes to predict evolution.</p>
 <h6><i class='fas fa-flask'></i> Phenotypic evolution</h6>
@@ -28,5 +31,5 @@ Our lab aims to understand how vaccine design is related to the underlying evolu
 
 <h3>Relevance</h3>
 <p>
-Our work in laboratory environment allows us to determine the relevant parameters of evolution, which can help in understanding and forecasting evolution in the real world. For example, note the evolution of the Sars-CoV-2 variants of concern from Davies et al, 2020, when compared to evolution of yeast lineages in a flask: </p>
+Our work in laboratory environment allows us to determine the relevant parameters of evolution, which can help in understanding and forecasting evolution in the real world. For example, note the evolution of the Sars-CoV-2 variants of concern from Davies et al, 2020 (left), when compared to evolution of yeast lineages in a flask (right): </p>
 <img src="/assets/images/sars_vs_yeast.png" alt="" style="max-height:300;max-width:400" />
