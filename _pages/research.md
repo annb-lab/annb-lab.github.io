@@ -15,7 +15,7 @@ Thousands of polymorphisms in populations are responsible for phenotypic differe
 <h6><i class='fas fa-briefcase-medical'></i> Precision medicine</h6>
 <p>Our lab is participating in the effort to systematically characterize all functional missense variation in human genes. Our goal is to determine disease risks such as cancer <i>before</i> manifestation of symptoms (shifting medicine to a preventive science), and to reveal genetic determinants of inter-personal differences in molecular pathology to design better treatments,  
 </p>
-<h3>Relevance</h3>
+<h6>Relevance</h3>
 <p>We hope to develop machine learning models of the cell to bring new insight into biological diseases. Examples of current projects aim to develop technologies for regenerative medicine in addressing aggregation-prone proteins found in Parkinson's and for screening disregulations that lead to cancers.
   </p>
 <h2><b>Evolution</b></h2>
@@ -29,7 +29,7 @@ Thousands of polymorphisms in populations are responsible for phenotypic differe
 Our lab aims to understand how vaccine design is related to the underlying evolutionary process behind protective B-cell lineages.
 </p>
 
-<h3>Relevance</h3>
+<h6>Relevance</h3>
 <p>
 Our work in laboratory environments allows us to determine the relevant parameters of evolution, which can help in understanding and forecasting evolution in the real world. For example, note the similarity between the evolution of the Sars-CoV-2 variants of concern from <a href='https://www.medrxiv.org/content/10.1101/2020.12.24.20248822v1' target='_blank'>Davies et al, 2020<i class='fas fa-external-link-alt'></i></a> (left), when compared to <a href='https://www.nature.com/articles/s41586-019-1749-3' target='_blank'>high-resolution lineage tracking<i class='fas fa-external-link-alt'></i></a> of yeast populations in a flask (right) : </p>
 <img src="/assets/images/sars_vs_yeast.png" alt="" style="max-height:300;max-width:400" />
