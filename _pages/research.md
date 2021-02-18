@@ -11,6 +11,7 @@ Focusing on the genetic basis of traits, we are broadly interested in asking wha
 <h6><i class='fas fa-dna'></i> Systems biology of complex traits</h6>
 <p>
 Thousands of polymorphisms in populations are responsible for phenotypic differences between individuals and between species. Which 'molecular knobs' are affected and are the main players between phenotypic divergence? Our research uses extremely large panels of derived strains from the wild to get at the systems biology of the cell.
+<img src="/assets/images/bbq.png" alt="" style="max-height:188;max-width:464" />
 </p>
 <h6><i class='fas fa-briefcase-medical'></i> Precision medicine</h6>
 <p>Our lab is participating in the effort to systematically characterize all functional missense variation in human genes. Our goal is to determine disease risks such as cancer <i>before</i> manifestation of symptoms (shifting medicine to a preventive science), and to reveal genetic determinants of inter-personal differences in molecular pathology to design better treatments,  
