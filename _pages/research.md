@@ -25,7 +25,7 @@ Thousands of polymorphisms in populations are responsible for phenotypic differe
 <h6><i class='fas fa-flask'></i> Phenotypic evolution</h6>
 <p>Our lab makes use of several <a href="http://myxo.css.msu.edu/index.html" target="_blank">experimental evolution experiments <i class="fas fa-external-link-alt"></i></a> to dissect the cellular basis of adaptation. For example, we know that transcriptional regulation plays a major role in cellular differentiation. However, how <i>evolution</i> tinkers with regulatory networks is less clear.
  </p><p style="align:center">
-<img src="/assets/images/ilt.png" alt="" style="max-height:143;max-width:400" />
+<img src="/assets/images/ilt.png" alt="" style="max-height:160;max-width:450" />
 
 </p>
 <h6><i class='fas fa-syringe'></i> Vaccinology</h6>
