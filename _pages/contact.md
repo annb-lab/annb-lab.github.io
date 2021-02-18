@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
+classes: wide 
 ---
 
 Alex N. Nguyen Ba<br>
