@@ -11,7 +11,7 @@ feature_row:
 
 
 <ol>
-	<li>Tung S, Bakerlee CW, Phillips A, <b>Nguyen Ba AN</b>, Desai MM:
+	<li>Tung S, Bakerlee CW, Phillips AM, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>The genetic basis of differential autodiploidization in evolving yeast populations.</b></b>
 		<i>Submitted</i>. 2021.</li>
 	
