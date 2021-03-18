@@ -32,7 +32,7 @@ feature_row:
 	
 	<li>Zulauf K*, Green A*, <b>Nguyen Ba AN</b>, Jagdish T, Reif D, Seeley R, Dale A, Kirby J: 
 <b><b>Microwave-generated steam decontamination of N95 respirators utilizing universally accessible materials.</b></b>
-<i>mBio</i>. 2020, Jun 25;11(3):e00997-20.</li> <a href="/assets/Zulauf_2020_mBio-2020-Zulauf-e00997-20.full.pdf" target='_blank'><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+<i>mBio</i>. 2020, Jun 25;11(3):e00997-20.</li> <a href="/assets/Zulauf_2020_mBio-2020-Zulauf-e00997-20.full.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
 	
 	<li>Jerison ER, <b>Nguyen Ba AN</b>, Desai MM, Kryazhimskiy S: 
 <b><b>Chance and necessity in the pleiotropic consequences of adaptation for budding yeast.</b></b>
