@@ -32,18 +32,18 @@ feature_row:
 	
 	<li>Zulauf K*, Green A*, <b>Nguyen Ba AN</b>, Jagdish T, Reif D, Seeley R, Dale A, Kirby J: 
 <b><b>Microwave-generated steam decontamination of N95 respirators utilizing universally accessible materials.</b></b>
-<i>mBio</i>. 2020, Jun 25;11(3):e00997-20. <a href="/assets/Zulauf_2020_mBio-2020-Zulauf-e00997-20.full.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
+<i>mBio</i>. 2020, Jun 25;11(3):e00997-20. <a href="/assets/publications/Zulauf_2020_mBio-2020-Zulauf-e00997-20.full.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
 	
 	<li>Jerison ER, <b>Nguyen Ba AN</b>, Desai MM, Kryazhimskiy S: 
 <b><b>Chance and necessity in the pleiotropic consequences of adaptation for budding yeast.</b></b>
-<i>Nat. Ecol. Evol</i>. 2020, Apr;4(4):601-611. <a href="/assets/Jerison_2020_s41559-020-1128-3.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
+<i>Nat. Ecol. Evol</i>. 2020, Apr;4(4):601-611. <a href="/assets/publications/Jerison_2020_s41559-020-1128-3.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
 
 	<li>
 
 <div style='display: table-cell'>
 <b>Nguyen Ba AN</b>*, Cvijovic I*, Rojas Echenique JI*, Lawrence KR, Rego-Costa A, Liu X, Levy S, Desai MM: 
 <b><b>High-resolution lineage tracking reveals traveling wave of adaptation in laboratory yeast.</b></b>
-<i>Nature</i>. 2019, Nov 13;575(7783):494-99. <a href="/assets/NguyenBa_2019_s41586-019-1749-3.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
+<i>Nature</i>. 2019, Nov 13;575(7783):494-99. <a href="/assets/publications/NguyenBa_2019_s41586-019-1749-3.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
 </div>
 <div style='display: table-cell; vertical-align:middle;width:150px'>
 <img src='../assets/images/7783.png' />
@@ -54,7 +54,7 @@ feature_row:
 
 	<li>Pham JY, Ogbunugafor CB, <b>Nguyen Ba AN</b>, Hartl DL: 
 <b><b>Experimental evolution of bacteriophage T4 results in changes in phage productivity and structural genes.</b></b>
-<i>Microbiologyopen</i>, 2019, Nov 28:e968. <a href="/assets/Pham_2019_mbo3.968.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
+<i>Microbiologyopen</i>, 2019, Nov 28:e968. <a href="/assets/publications/Pham_2019_mbo3.968.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
 
 	<li>Zarin T, Strome B, <b>Nguyen Ba AN</b>, Alberti S, Forman-Kay JD, Moses AM: 
 <b><b>Proteome-wide signatures of function in highly diverged intrinsically disordered regions.</b></b>
