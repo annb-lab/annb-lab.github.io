@@ -57,10 +57,18 @@ feature_row4:
     teaser_style: "text-align: center;"
     style: "width:150px;"
 
+feature_row5:
+  - image_path: /assets/images/alex.jpg
+    excerpt: "<b> Anita Nikolsky</b><br>
+	Anita will be joining our lab in the Fall 2021. She is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will applying our lineage tracking strategies to B-cells.<br>
+	"
+    style: "width:150px;"
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
+<h2>Graduate students</h2>
+{% include feature_row id="feature_row5" type="left" %}
 <h2>Undergraduate students</h2>
 {% include feature_row id="feature_row4" %}
 <h2>Mentees/Collaborators</h2>
