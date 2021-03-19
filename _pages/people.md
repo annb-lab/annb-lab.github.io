@@ -60,7 +60,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/genome.png
     excerpt: "<b> Anita Nikolsky</b><br>
-	Anita will be joining our lab in the Fall 2021. She is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will applying our lineage tracking strategies to B-cells.<br>
+	Anita will be joining our lab in the Fall 2021. She is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will be applying our lineage tracking strategies to B-cells.<br>
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
