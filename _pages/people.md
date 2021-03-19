@@ -64,7 +64,7 @@ feature_row5:
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
-    teaser_style: "width:150px"
+    teaser_style: "width:200px"
     body_style: "flex-grow: 1"
 ---
 
