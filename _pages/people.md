@@ -65,6 +65,7 @@ feature_row5:
     style: "width:150px;"
     row_style: "display: flex; width:100%"
     teaser_style: "width:150px"
+    body_style: "flex-grow: 1"
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
