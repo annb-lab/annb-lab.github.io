@@ -63,6 +63,7 @@ feature_row5:
 	Anita will be joining our lab in the Fall 2021. She is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will applying our lineage tracking strategies to B-cells.<br>
 	"
     style: "width:150px;"
+    row_style: "display: flex"
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
