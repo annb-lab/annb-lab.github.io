@@ -56,6 +56,11 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Wen Tong<br>NSERC URSA<br>mustafa.khekani[at]mail.utoronto.ca"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
 
 feature_row5:
   - image_path: /assets/images/genome.png
