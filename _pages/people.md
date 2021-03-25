@@ -52,12 +52,12 @@ feature_row3:
 
 feature_row4:
   - image_path: /assets/images/genome.png
-    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca"
+    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/genome.png
-    excerpt: "Wen Tong<br>NSERC URSA<br>mustafa.khekani[at]mail.utoronto.ca"
+    excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>NSERC URSA"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
