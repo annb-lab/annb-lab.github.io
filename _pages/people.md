@@ -71,6 +71,14 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
+  - image_path: /assets/images/genome.png
+    excerpt: "<b> Claire Chochinov</b><br>
+	Claire will be joining our lab in the Fall 2021. She is interested in developing molecular techniques to expand deep-mutational scanning in human genes.<br>
+	"
+    style: "width:150px;"
+    row_style: "display: flex; width:100%"
+    teaser_style: "width:200px"
+    body_style: "flex-grow: 1"
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
