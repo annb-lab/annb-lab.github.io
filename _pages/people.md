@@ -79,6 +79,14 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
+  - image_path: /assets/images/genome.png
+    excerpt: "<b> Arnaud N'Guessan</b><br>
+	Arnaud will be joining our lab in the Fall 2021. He is interested in studying microbial ecology and evolution. His main projects revolve around the use of single-cell RNA sequencing in microbes.
+	"
+    style: "width:150px;"
+    row_style: "display: flex; width:100%"
+    teaser_style: "width:200px"
+    body_style: "flex-grow: 1"
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
