@@ -51,19 +51,14 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/genome.png
-    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/KhekaniM_headshot.jpg
     excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>NSERC URSA"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
 
 feature_row5:
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/NikolskyA_headshot.jpg
     excerpt: "<b> Anita Nikolsky</b><br>
 	Anita will be joining our lab in the Fall 2021. She is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will be applying our lineage tracking strategies to B-cells.<br>
 	"
@@ -87,6 +82,14 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
+    
+    
+feature_row6:
+  - image_path: /assets/images/genome.png
+    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
@@ -98,3 +101,5 @@ feature_row5:
 <h2>Mentees/Collaborators</h2>
 During my postdoctoral research in Michael Desai's lab, I was directly involved in the mentorship of several graduate students and remain close to them. I consider these scientists more as collaborators and still work with them as they advance in their careers.
 {% include feature_row id="feature_row3" %}
+<h2>Lab Alumni</h2>
+{% include feature_row id="feature_row6" %}
