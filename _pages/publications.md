@@ -17,7 +17,7 @@ feature_row:
 	
 	<li>Tung S, Bakerlee CW, Phillips AM, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>The genetic basis of differential autodiploidization in evolving yeast populations.</b></b>
-		<i>Under Revision</i>. 2021.</li>
+		<i>G3</i>. 2021, In press.</li>
 	
 	<li><b>Nguyen Ba AN*</b>, Lawrence KR*, Rego-Costa A*, Gopalakrishnan S, Desai MM: 
 <b><b>Barcoded Bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
