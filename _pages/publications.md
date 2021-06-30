@@ -11,7 +11,7 @@ feature_row:
 
 
 <ol>
-	<li>Bakerlee CW*, <b>Philips AM*</b>, Nguyen Ba AN, Desai MM:
+	<li>Bakerlee CW*, Philips AM*, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>Dynamics and variability in the pleiotropic effects of adaptation in laboratory budding yeast populations.</b></b>
 		<i>In Review</i>. 2021.</li>
 	
