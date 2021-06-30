@@ -11,6 +11,10 @@ feature_row:
 
 
 <ol>
+	<li>Bakerlee CW*, <b>Philips AM*</b>, Nguyen Ba AN, Desai MM:
+		<b><b>Dynamics and variability in the pleiotropic effects of adaptation in laboratory budding yeast populations.</b></b>
+		<i>In Review</i>. 2021.</li>
+	
 	<li>Bakerlee CW*, <b>Nguyen Ba AN*</b>, Shulgina Y, Rojas Echenique JI, Desai MM:
 		<b><b>Multi-gene fitness landscape reveals the idiosyncratic underpinnings of global epistasis.</b></b>
 		<i>In Preparation</i>. 2021.</li>
