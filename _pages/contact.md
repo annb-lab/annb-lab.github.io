@@ -8,7 +8,7 @@ Alex N. Nguyen Ba<br>
 William G. Davis Building<br>
 3359 Mississauga Rd<br>
 Mississauga, ON, L5L 1C6<br>
-Lab: DV4090<br>
+Lab: DV4090C<br>
 Office: DV3251<br>
 <i class='far fa-envelope'></i> alex.nguyenba[at]utoronto.ca<br>
 <i class='fas fa-phone'></i> (905)-828-3729<br>
