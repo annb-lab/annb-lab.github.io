@@ -16,8 +16,8 @@ feature_row:
 		<i>In Review</i>. 2021.</li>
 	
 	<li>Bakerlee CW*, <b>Nguyen Ba AN*</b>, Shulgina Y, Rojas Echenique JI, Desai MM:
-		<b><b>Multi-gene fitness landscape reveals the idiosyncratic underpinnings of global epistasis.</b></b>
-		<i>In Preparation</i>. 2021.</li>
+		<b><b>Idiosyncratic epistasis leads to global fitness-correlated trends.</b></b>
+		<i>Submitted</i>. 2021.</li>
 	
 	<li>Tung S, Bakerlee CW, Phillips AM, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>The genetic basis of differential autodiploidization in evolving yeast populations.</b></b>
