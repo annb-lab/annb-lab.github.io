@@ -11,6 +11,10 @@ feature_row:
 
 
 <ol>
+	<li><b>Chochinov CA<b>, <b>Nguyen Ba AN</b>:
+		<b><b>Bulk-fitness measurements using barcode sequencing analysis in yeast.</b></b>
+		<i>In Press</i>. 2021.</li>
+	
 	<li>Bakerlee CW*, Philips AM*, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>Dynamics and variability in the pleiotropic effects of adaptation in laboratory budding yeast populations.</b></b>
 		<i>In Review</i>. 2021.</li>
