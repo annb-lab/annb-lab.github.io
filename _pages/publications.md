@@ -11,7 +11,7 @@ feature_row:
 
 
 <ol>
-	<li><b>Chochinov CA<b>, <b>Nguyen Ba AN</b>:
+	<li><b>Chochinov CA</b>, <b>Nguyen Ba AN</b>:
 		<b><b>Bulk-fitness measurements using barcode sequencing analysis in yeast.</b></b>
 		<i>In Press</i>. 2021.</li>
 	
