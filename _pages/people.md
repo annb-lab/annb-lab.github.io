@@ -56,11 +56,26 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
+- image_path: /assets/images/genome.png
+    excerpt: "Kortni Kindree<br>kortni.kindree[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+- image_path: /assets/images/genome.png
+    excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+- image_path: /assets/images/genome.png
+    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
 
 feature_row5:
   - image_path: /assets/images/NikolskyA_headshot.jpg
     excerpt: "<b> Anita Nikolsky</b><br>
-	Anita will be joining our lab in the Fall 2021. She is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will be applying our lineage tracking strategies to B-cells.<br>
+	Anita is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will be applying our lineage tracking strategies to B-cells.<br>
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
@@ -68,7 +83,7 @@ feature_row5:
     body_style: "flex-grow: 1"
   - image_path: /assets/images/genome.png
     excerpt: "<b> Claire Chochinov</b><br>
-	Claire will be joining our lab in the Fall 2021. She is interested in developing molecular techniques to expand deep-mutational scanning in human genes.<br>
+	Claire is interested in developing molecular techniques to expand deep-mutational scanning in human genes. Claire is developping approaches to measure mutation rates of variants in oncogenes in high-throughput.<br>
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
@@ -76,7 +91,7 @@ feature_row5:
     body_style: "flex-grow: 1"
   - image_path: /assets/images/genome.png
     excerpt: "<b> Arnaud N'Guessan</b><br>
-	Arnaud will be joining our lab in the Fall 2021. He is interested in studying microbial ecology and evolution. His main projects revolve around the use of single-cell RNA sequencing in microbes.
+	Arnaud is interested in studying microbial ecology and evolution. His main projects revolve around the use of single-cell RNA sequencing in microbes to understand the contribution of the transcriptome to evolution.
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
