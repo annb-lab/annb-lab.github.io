@@ -89,9 +89,9 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/arnaud.jpg
     excerpt: "<b> Arnaud N'Guessan</b><br>
-	Arnaud is interested in studying microbial ecology and evolution. His main projects revolve around the use of single-cell RNA sequencing in microbes to understand the contribution of the transcriptome to evolution.
+	Arnaud graduated with a BSc in Bioinformatics from Laval University in Québec City. During his undergrad years, his internships nurtured a passion for microbial evolution and computational biology. After joining the Shapiro and Serohijos lab at University of Montreal for his Master's, Arnaud determined which evolutionary forces and selective pressures are the most important for pangenomes evolution on short timescales within the human gut. Arnaud was also involved in many scientific collaborations to help improve the understanding of SARS-CoV-2 evolution and the response of public heath agencies, e.g. through Wastewater surveillance and other tools for tracking the spread of variants of concern. His interest for innovative multidisciplinary approaches and microbial evolution led him to pursue a PhD at the University of Toronto where he will be analyzing high-throughput single-cell RNA sequencing data for understanding how genotypes affect phenotypes via transcription at fine levels of resolution.
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
