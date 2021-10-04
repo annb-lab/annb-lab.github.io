@@ -56,7 +56,7 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/kortni.jpg
     excerpt: "Kortni Kindree<br>kortni.kindree[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
@@ -81,7 +81,7 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/claire.jpg
     excerpt: "<b> Claire Chochinov</b><br>
 	Claire is interested in developing molecular techniques to expand deep-mutational scanning in human genes. Claire is developping approaches to measure mutation rates of variants in oncogenes in high-throughput.<br>
 	"
