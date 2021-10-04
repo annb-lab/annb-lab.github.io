@@ -66,7 +66,7 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/nicolas.jpg
     excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
