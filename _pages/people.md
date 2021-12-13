@@ -61,7 +61,7 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/rutvik.jpg
     excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
