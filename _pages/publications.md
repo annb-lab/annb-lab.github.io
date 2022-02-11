@@ -29,7 +29,7 @@ feature_row:
 	
 	<li><b>Nguyen Ba AN*</b>, Lawrence KR*, Rego-Costa A*, Gopalakrishnan S, Desai MM: 
 <b><b>Barcoded Bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
-<i>In Review</i>. 2020.</li>
+<i>eLife</i>. 2022, In Press.</li>
 	<li>Johnson MS, Gopalakrishnan S, Goyal J, Dillingham ME, Bakerlee CW, Humphrey PT, Jagdish T, Jerison ER, Kosheleva K, Lawrence KR, Min J, Moulana A, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, McDonald MJ, <b>Nguyen Ba AN</b>, Desai MM: 
 <b><b>Phenotypic and molecular evolution across 10,000 generations in laboratory budding yeast populations.</b></b>
 <i>eLife</i>. 2021;10:e63910. <a href="/assets/publications/Johnson_2021_elife-63910-v2.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
