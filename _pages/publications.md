@@ -11,13 +11,16 @@ feature_row:
 
 
 <ol>
+	<li><b>Nguyen Ba AN*</b>, Lawrence KR*, Rego-Costa A*, Gopalakrishnan S, Desai MM: 
+		<b><b>Barcoded Bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
+		<i>eLife</i>. 2022, In Press.</li>
 	<li><b>Chochinov CA</b>, <b>Nguyen Ba AN</b>:
 		<b><b>Bulk-fitness measurements using barcode sequencing analysis in yeast.</b></b>
 		<i>In Press</i>. 2021.</li>
 	
 	<li>Bakerlee CW*, Philips AM*, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>Dynamics and variability in the pleiotropic effects of adaptation in laboratory budding yeast populations.</b></b>
-		<i>eLife</i>. 2021, In press.</li>
+		<i>eLife</i>. 2021, Oct 1;10:e70918.</li>
 	
 	<li>Bakerlee CW*, <b>Nguyen Ba AN*</b>, Shulgina Y, Rojas Echenique JI, Desai MM:
 		<b><b>Idiosyncratic epistasis leads to global fitness-correlated trends.</b></b>
@@ -25,11 +28,8 @@ feature_row:
 	
 	<li>Tung S, Bakerlee CW, Phillips AM, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>The genetic basis of differential autodiploidization in evolving yeast populations.</b></b>
-		<i>G3</i>. 2021, In press.</li>
+		<i>G3</i>. 2021, Aug 7;11(8):jkab192.</li>
 	
-	<li><b>Nguyen Ba AN*</b>, Lawrence KR*, Rego-Costa A*, Gopalakrishnan S, Desai MM: 
-<b><b>Barcoded Bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
-<i>eLife</i>. 2022, In Press.</li>
 	<li>Johnson MS, Gopalakrishnan S, Goyal J, Dillingham ME, Bakerlee CW, Humphrey PT, Jagdish T, Jerison ER, Kosheleva K, Lawrence KR, Min J, Moulana A, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, McDonald MJ, <b>Nguyen Ba AN</b>, Desai MM: 
 <b><b>Phenotypic and molecular evolution across 10,000 generations in laboratory budding yeast populations.</b></b>
 <i>eLife</i>. 2021;10:e63910. <a href="/assets/publications/Johnson_2021_elife-63910-v2.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
