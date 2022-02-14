@@ -20,7 +20,7 @@ feature_row:
 	
 	<li>Bakerlee CW*, Philips AM*, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>Dynamics and variability in the pleiotropic effects of adaptation in laboratory budding yeast populations.</b></b>
-		<i>eLife</i>. 2021, Oct 1;10:e70918.</li>
+		<i>eLife</i>. 2021, Oct 1;10:e70918. <a href="/assets/publications/Bakerlee_2021_DPE_elife-70918-v2.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
 	
 	<li>Bakerlee CW*, <b>Nguyen Ba AN*</b>, Shulgina Y, Rojas Echenique JI, Desai MM:
 		<b><b>Idiosyncratic epistasis leads to global fitness-correlated trends.</b></b>
