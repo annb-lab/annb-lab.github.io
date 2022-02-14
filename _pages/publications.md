@@ -28,7 +28,7 @@ feature_row:
 	
 	<li>Tung S, Bakerlee CW, Phillips AM, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>The genetic basis of differential autodiploidization in evolving yeast populations.</b></b>
-		<i>G3</i>. 2021, Aug 7;11(8):jkab192.</li>
+		<i>G3</i>. 2021, Aug 7;11(8):jkab192. <a href="/assets/publications/Tung_BAD_jkab192.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
 	
 	<li>Johnson MS, Gopalakrishnan S, Goyal J, Dillingham ME, Bakerlee CW, Humphrey PT, Jagdish T, Jerison ER, Kosheleva K, Lawrence KR, Min J, Moulana A, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, McDonald MJ, <b>Nguyen Ba AN</b>, Desai MM: 
 <b><b>Phenotypic and molecular evolution across 10,000 generations in laboratory budding yeast populations.</b></b>
