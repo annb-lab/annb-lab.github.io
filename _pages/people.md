@@ -75,7 +75,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/NikolskyA_headshot.jpg
     excerpt: "<b> Anita Nikolsky</b><br>
-	Anita is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will be applying our lineage tracking strategies to B-cells.<br>
+	Anita is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will be applying our lineage tracking strategies to B-cells.<br><br>anita.nikolsky[at]mail.utoronto.ca
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
@@ -83,7 +83,7 @@ feature_row5:
     body_style: "flex-grow: 1"
   - image_path: /assets/images/claire.jpg
     excerpt: "<b> Claire Chochinov</b><br>
-	Claire is interested in developing molecular techniques to expand deep-mutational scanning in human genes. Claire is developping approaches to measure mutation rates of variants in oncogenes in high-throughput.<br>
+	Claire is interested in developing molecular techniques to expand deep-mutational scanning in human genes. Claire is developping approaches to measure mutation rates of variants in oncogenes in high-throughput.<br><br>claire.chochinov[at]mail.utoronto.ca
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
@@ -91,7 +91,7 @@ feature_row5:
     body_style: "flex-grow: 1"    
   - image_path: /assets/images/arnaud.jpg
     excerpt: "<b> Arnaud N'Guessan</b><br>
-	Arnaud graduated with a BSc in Bioinformatics from Laval University in Québec City. During his undergrad years, his internships nurtured a passion for microbial evolution and computational biology. After joining the Shapiro and Serohijos lab at University of Montreal for his Master's, Arnaud determined which evolutionary forces are the most important for pangenomes evolution on short timescales within the human gut. Arnaud was also involved in many scientific collaborations to help improve the understanding of SARS-CoV-2 evolution and the response of public heath agencies, e.g. through Wastewater surveillance and other tools for tracking the spread of variants of concern. His interest for innovative multidisciplinary approaches and microbial evolution led him to pursue a PhD where he will be analyzing single-cell RNA sequencing data for understanding how genotypes affect phenotypes via transcription at fine levels of resolution.
+	Arnaud graduated with a BSc in Bioinformatics from Laval University in Québec City. During his undergrad years, his internships nurtured a passion for microbial evolution and computational biology. After joining the Shapiro and Serohijos lab at University of Montreal for his Master's, Arnaud determined which evolutionary forces are the most important for pangenomes evolution on short timescales within the human gut. Arnaud was also involved in many scientific collaborations to help improve the understanding of SARS-CoV-2 evolution and the response of public heath agencies, e.g. through Wastewater surveillance and other tools for tracking the spread of variants of concern. His interest for innovative multidisciplinary approaches and microbial evolution led him to pursue a PhD where he will be analyzing single-cell RNA sequencing data for understanding how genotypes affect phenotypes via transcription at fine levels of resolution.<br><br>arnaud.nguessan[at]mail.utoronto.ca
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
