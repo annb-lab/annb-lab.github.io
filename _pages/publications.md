@@ -13,7 +13,8 @@ feature_row:
 <ol>
 	<li><b>Nguyen Ba AN*</b>, Lawrence KR*, Rego-Costa A*, Gopalakrishnan S, Desai MM: 
 		<b><b>Barcoded Bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
-		<i>eLife</i>. 2022 Feb 11;11:e73983.</li>
+		<i>eLife</i>. 2022 Feb 11;11:e73983. <a href="/assets/publications/NguyenBa_2022_eLife_73983_small.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
+	</li>
 	<li><b>Chochinov CA</b>, <b>Nguyen Ba AN</b>:
 		<b><b>Bulk-fitness measurements using barcode sequencing analysis in yeast.</b></b>
 		<i>In Press</i>. 2021.</li>
