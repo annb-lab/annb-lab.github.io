@@ -11,6 +11,10 @@ feature_row:
 
 
 <ol>
+	<li>Jagdish T, <b>Nguyen Ba AN*</b>: 
+		<b><b>Experimental evolution in a massively multiplexed and high-throughput era.</b></b>
+		<i>Curr. Opin. Genet. Dev.</i>. In Press.
+	</li>
 	<li><b>Nguyen Ba AN*</b>, Lawrence KR*, Rego-Costa A*, Gopalakrishnan S, Desai MM: 
 		<b><b>Barcoded Bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
 		<i>eLife</i>. 2022 Feb 11;11:e73983. <a href="/assets/publications/NguyenBa_2022_eLife_73983_small.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
