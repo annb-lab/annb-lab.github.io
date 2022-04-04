@@ -75,7 +75,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/NikolskyA_headshot.jpg
     excerpt: "<b> Anita Nikolsky</b><br>
-	Anita is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will be applying our lineage tracking strategies to B-cells.<br><br>anita.nikolsky[at]mail.utoronto.ca
+	Anita is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will be applying our lineage tracking strategies to B-cells. Anita is funded by a CIHR CGS-M. <br><br>anita.nikolsky[at]mail.utoronto.ca
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
@@ -83,7 +83,7 @@ feature_row5:
     body_style: "flex-grow: 1"
   - image_path: /assets/images/claire.jpg
     excerpt: "<b> Claire Chochinov</b><br>
-	Claire is interested in developing molecular techniques to expand deep-mutational scanning in human genes. Claire is developping approaches to measure mutation rates of variants in oncogenes in high-throughput.<br><br>claire.chochinov[at]mail.utoronto.ca
+	Claire is interested in developing molecular techniques to expand deep-mutational scanning in human genes. Claire is developping approaches to measure mutation rates of variants in oncogenes in high-throughput. Claire is funded by a CIHR CGS-M. <br><br>claire.chochinov[at]mail.utoronto.ca
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
