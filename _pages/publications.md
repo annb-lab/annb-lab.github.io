@@ -11,7 +11,7 @@ feature_row:
 
 
 <ol>
-	<li>Jagdish T, <b>Nguyen Ba AN*</b>: 
+	<li>Jagdish T, <b>Nguyen Ba AN</b>: 
 		<b><b>Experimental evolution in a massively multiplexed and high-throughput era.</b></b>
 		<i>Curr. Opin. Genet. Dev.</i>. Accepted, in revision.
 	</li>
