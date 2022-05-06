@@ -17,7 +17,7 @@ feature_row:
 	</li>
 	<li>Bakerlee CW*, <b>Nguyen Ba AN*</b>, Shulgina Y, Rojas Echenique JI, Desai MM:
 		<b><b>Idiosyncratic epistasis leads to global fitness-correlated trends.</b></b>
-		<i>Science</i>. 2022, May 6;376(6593):eabm4774 <a href="/assets/publications/Bakerlee_Nguyen_science.abm4774.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
+		<i>Science</i>. 2022, May 6;376(6593):eabm4774. <a href="/assets/publications/Bakerlee_Nguyen_science.abm4774.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
 	<li><b>Nguyen Ba AN*</b>, Lawrence KR*, Rego-Costa A*, Gopalakrishnan S, Desai MM: 
 		<b><b>Barcoded Bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
 		<i>eLife</i>. 2022 Feb 11;11:e73983. <a href="/assets/publications/NguyenBa_2022_eLife_73983_small.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
