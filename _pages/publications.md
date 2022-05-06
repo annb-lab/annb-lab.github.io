@@ -15,6 +15,9 @@ feature_row:
 		<b><b>Experimental evolution in a massively multiplexed and high-throughput era.</b></b>
 		<i>Curr. Opin. Genet. Dev.</i>. Accepted, in revision.
 	</li>
+	<li>Bakerlee CW*, <b>Nguyen Ba AN*</b>, Shulgina Y, Rojas Echenique JI, Desai MM:
+		<b><b>Idiosyncratic epistasis leads to global fitness-correlated trends.</b></b>
+		<i>Science</i>. 2022, May 6;376(6593):eabm4774 <a href="/assets/publications/Bakerlee_Nguyen_science.abm4774.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
 	<li><b>Nguyen Ba AN*</b>, Lawrence KR*, Rego-Costa A*, Gopalakrishnan S, Desai MM: 
 		<b><b>Barcoded Bulk QTL mapping reveals highly polygenic and epistatic architecture of complex traits in yeast.</b></b>
 		<i>eLife</i>. 2022 Feb 11;11:e73983. <a href="/assets/publications/NguyenBa_2022_eLife_73983_small.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
@@ -25,12 +28,7 @@ feature_row:
 	
 	<li>Bakerlee CW*, Philips AM*, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>Dynamics and variability in the pleiotropic effects of adaptation in laboratory budding yeast populations.</b></b>
-		<i>eLife</i>. 2021, Oct 1;10:e70918. <a href="/assets/publications/Bakerlee_2021_DPE_elife-70918-v2.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
-	
-	<li>Bakerlee CW*, <b>Nguyen Ba AN*</b>, Shulgina Y, Rojas Echenique JI, Desai MM:
-		<b><b>Idiosyncratic epistasis leads to global fitness-correlated trends.</b></b>
-		<i>Science</i>. 2021. In Press.</li>
-	
+		<i>eLife</i>. 2021, Oct 1;10:e70918. <a href="/assets/publications/Bakerlee_2021_DPE_elife-70918-v2.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>	
 	<li>Tung S, Bakerlee CW, Phillips AM, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>The genetic basis of differential autodiploidization in evolving yeast populations.</b></b>
 		<i>G3</i>. 2021, Aug 7;11(8):jkab192. <a href="/assets/publications/Tung_BAD_jkab192.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
