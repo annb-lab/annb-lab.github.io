@@ -51,27 +51,17 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/KhekaniM_headshot.jpg
-    excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>NSERC URSA"
+  - image_path: /assets/images/sophia.jpg
+    excerpt: "Mustafa Khekani<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/kortni.jpg
-    excerpt: "Kortni Kindree<br>kortni.kindree[at]mail.utoronto.ca<br>ROP student"
+  - image_path: /assets/images/genome.png
+    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/rutvik.jpg
-    excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/nicolas.jpg
-    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-
+    
 feature_row5:
   - image_path: /assets/images/NikolskyA_headshot.jpg
     excerpt: "<b> Anita Nikolsky</b><br>
@@ -100,6 +90,26 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/genome.png
     excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/KhekaniM_headshot.jpg
+    excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>NSERC URSA"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/kortni.jpg
+    excerpt: "Kortni Kindree<br>kortni.kindree[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/rutvik.jpg
+    excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/nicolas.jpg
+    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
