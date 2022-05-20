@@ -52,7 +52,7 @@ feature_row3:
 
 feature_row4:
   - image_path: /assets/images/sophia.jpg
-    excerpt: "Mustafa Khekani<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
