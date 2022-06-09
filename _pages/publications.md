@@ -24,7 +24,8 @@ feature_row:
 	</li>
 	<li><b>Chochinov CA</b>, <b>Nguyen Ba AN</b>:
 		<b><b>Bulk-fitness measurements using barcode sequencing analysis in yeast.</b></b>
-		<i> Methods Mol Biol</i>. 2022;2477:399-415.</li>
+		<i> Methods Mol Biol</i>. 2022;2477:399-415. <a href="/assets/publications/Chochinov-NguyenBa2022_Protocol_Bulk-FitnessMeasurementsUsingB.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
+	</li>
 	
 	<li>Bakerlee CW*, Philips AM*, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>Dynamics and variability in the pleiotropic effects of adaptation in laboratory budding yeast populations.</b></b>
