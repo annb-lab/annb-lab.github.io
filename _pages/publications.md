@@ -13,7 +13,7 @@ feature_row:
 <ol>
 	<li>Jagdish T, <b>Nguyen Ba AN</b>: 
 		<b><b>Experimental evolution in a massively multiplexed and high-throughput era.</b></b>
-		<i>Curr. Opin. Genet. Dev.</i>. In Press.
+		<i>Curr. Opin. Genet. Dev.</i>. 2022 Aug;75:101943. <a href="/assets/publications/Jagdish_CurrOppGenDev_2022_Review.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
 	</li>
 	<li>Bakerlee CW*, <b>Nguyen Ba AN*</b>, Shulgina Y, Rojas Echenique JI, Desai MM:
 		<b><b>Idiosyncratic epistasis leads to global fitness-correlated trends.</b></b>
