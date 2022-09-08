@@ -57,7 +57,7 @@ feature_row4:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/yunyi.jpg
-    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student"
+    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>Intern"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -108,7 +108,7 @@ feature_row6:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
- - image_path: /assets/images/sophia.jpg
+  - image_path: /assets/images/sophia.jpg
     excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
