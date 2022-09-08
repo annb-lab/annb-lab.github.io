@@ -103,7 +103,7 @@ feature_row5:
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
 feature_row6:
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/wen.jpg
     excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
