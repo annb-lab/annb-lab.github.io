@@ -56,6 +56,21 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
+  - image_path: /assets/images/samantha.jpg
+    excerpt: "Samantha Bestavros<br>samantha.bestavros[at]mail.utoronto.ca<br>BIO481 student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Zainab Farrukh<br>zainab.farrukh[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Vivian Wang<br>vivianc.wang[at]mail.utoronto.ca<br>BCB330 student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
   - image_path: /assets/images/yunyi.jpg
     excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>Intern"
     body_style: "text-align: center;"
