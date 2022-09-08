@@ -51,8 +51,8 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/sophia.jpg
-    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student"
+  - image_path: /assets/images/kortni.jpg
+    excerpt: "Kortni Kindree<br>kortni.kindree[at]mail.utoronto.ca<br>BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -98,11 +98,6 @@ feature_row6:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/kortni.jpg
-    excerpt: "Kortni Kindree<br>kortni.kindree[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
   - image_path: /assets/images/rutvik.jpg
     excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
@@ -110,6 +105,11 @@ feature_row6:
     style: "width:150px;"
   - image_path: /assets/images/nicolas.jpg
     excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+ - image_path: /assets/images/sophia.jpg
+    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
