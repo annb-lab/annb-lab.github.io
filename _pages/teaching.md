@@ -26,6 +26,8 @@ My reasons are simply put, I don't believe knowing the solutions to a problem is
 Further, problem solving cannot be learned from solving a single problem: students only learn how to solve that one problem and cannot extend it to slight modifications of this problem! Learning stats and coding is not a recipe or bag of tricks, or formula to apply, yet students insist on trying to use this flawed methods for studying. It is therefore my policy to help students get to the answer, and to provide overall feedback until students can robustly identify what they know and what they don't know. Students complain that they cannot possibly know which questions they got wrong, but in my experience, when faced with this task, students in my office almost always identify the questions they got wrong within a few minutes: they are the questions they are less sure about.
 
 <h3>References</h3>
-Study from PNAS (Deslauriers et al., 2019) 
+Study from PNAS (<a href='https://www.pnas.org/doi/10.1073/pnas.1821936116' target='_blank'>Deslauriers et al., 2019</a>) 
 <br>
-Meta-analysis of faculty's teaching effectiveness: Student evaluation of teaching ratings and student learning are not related.   Bob Uttl, Carmela White and Daniela Wong Gonzalez (Studies in Educational Evaluation, 2017) 
+Meta-analysis of faculty's teaching effectiveness: Student evaluation of teaching ratings and student learning are not related. (<a href='https://www.sciencedirect.com/science/article/pii/S0191491X16300323' target='_blank'>Bob Uttl, Carmela White and Daniela Wong Gonzalez (Studies in Educational Evaluation, 2017)</a>) 
+<br>
+<a href='https://www.harvardmagazine.com/2012/03/twilight-of-the-lecture' target='_blank'>Eric Mazur interview on teaching methodologies and student evaluations</a>
