@@ -104,27 +104,27 @@ feature_row5:
     body_style: "flex-grow: 1"
 feature_row6:
   - image_path: /assets/images/wen.jpg
-    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student"
+    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student (2020)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/KhekaniM_headshot.jpg
-    excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>NSERC URSA"
+    excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>BIO481 (2021)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/rutvik.jpg
-    excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student (2021)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/nicolas.jpg
-    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student (2021)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/sophia.jpg
-    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student (2022)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
