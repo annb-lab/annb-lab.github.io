@@ -61,7 +61,7 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/zainab.jpg
     excerpt: "Zainab Farrukh<br>zainab.farrukh[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
