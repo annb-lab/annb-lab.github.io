@@ -104,7 +104,7 @@ feature_row5:
     body_style: "flex-grow: 1"
 feature_row6:
   - image_path: /assets/images/wen.jpg
-    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student (2020)"
+    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student (2020)<br>Now at Yale"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
