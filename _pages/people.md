@@ -114,7 +114,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/rutvik.jpg
-    excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student (2021)"
+    excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student (2021)<br>Now at NYU Dentistry"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
