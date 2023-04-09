@@ -109,7 +109,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/KhekaniM_headshot.jpg
-    excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>BIO481 (2021)"
+    excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>BIO481 (2021)<br>Now at UofT Dentistry"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
