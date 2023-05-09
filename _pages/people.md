@@ -61,6 +61,21 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Evelina Tronina<br>evelina.tronina[at]mail.utoronto.ca<br>UTEA Awardee"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Joseph Yu<br>yujoseph.yu[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Sabina Parmegiani<br>sabina.parmegiani[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
     
 feature_row5:
   - image_path: /assets/images/NikolskyA_headshot.jpg
