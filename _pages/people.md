@@ -109,7 +109,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/sophia.jpg
-    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student (2022)"
+    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student (2022)<br>Now UTEA awardee in Ogata lab"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
