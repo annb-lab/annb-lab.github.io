@@ -52,27 +52,12 @@ feature_row3:
 
 feature_row4:
   - image_path: /assets/images/kortni.jpg
-    excerpt: "Kortni Kindree<br>kortni.kindree[at]mail.utoronto.ca<br>BIO481 student"
+    excerpt: "Kortni Kindree<br>kortni.kindree[at]mail.utoronto.ca<br>BIO481 student<br>Joining the lab next year for MSc"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/samantha.jpg
-    excerpt: "Samantha Bestavros<br>samantha.bestavros[at]mail.utoronto.ca<br>BIO481 student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/zainab.jpg
-    excerpt: "Zainab Farrukh<br>zainab.farrukh[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/genome.png
-    excerpt: "Vivian Wang<br>vivianc.wang[at]mail.utoronto.ca<br>BCB330 student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/yunyi.jpg
-    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>Intern"
+    excerpt: "Samantha Bestavros<br>samantha.bestavros[at]mail.utoronto.ca<br>BIO481 student<br>Soon to Med School at UofT"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -119,12 +104,27 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/nicolas.jpg
-    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student (2021)"
+    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student (2021)<br>To Med school"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/sophia.jpg
     excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student (2022)"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/zainab.jpg
+    excerpt: "Zainab Farrukh<br>zainab.farrukh[at]mail.utoronto.ca<br>ROP student (2022)"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Vivian Wang<br>vivianc.wang[at]mail.utoronto.ca<br>BCB330 student (2022)"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/yunyi.jpg
+    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student (2021)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
