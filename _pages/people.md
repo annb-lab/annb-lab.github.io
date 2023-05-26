@@ -119,7 +119,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/nicolas.jpg
-    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student (2021)<br>To Med school"
+    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student (2021)<br>Soon to Med school at St. George"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
