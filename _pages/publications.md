@@ -11,6 +11,10 @@ feature_row:
 
 
 <ol>
+	<li>Claussnitzer M, Parikh VN, Wagner AH, Arbesfeld JA, Bult CJ, Firth HV, Muffley LA, <b>Nguyen Ba AN</b>, Riehle K, Roth FP, Tabet D, Bolognesi B, Glazer AM, Rubin AF: 
+		<b><b>Minimum information and guidelines for reporting a Multiplexed Assay of Variant Effect.</b></b>
+		<i>arXiv</i>. 2023.
+	</li>
 	<li>Jagdish T, <b>Nguyen Ba AN</b>: 
 		<b><b>Experimental evolution in a massively multiplexed and high-throughput era.</b></b>
 		<i>Curr. Opin. Genet. Dev.</i>. 2022 Aug;75:101943. <a href="/assets/publications/Jagdish_CurrOppGenDev_2022_Review.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
