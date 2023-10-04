@@ -56,13 +56,18 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/gauri_profile.jpb
     excerpt: "Gauri Menon<br>gaurisans.menon[at]mail.utoronto.ca<br>ROP Student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/seema_profile.jpg
     excerpt: "Seema Mahmalji<br>seema.mahmalji[at]mail.utoronto.ca<br>ROP Student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/keerath_profile.jpg
+    excerpt: "Keerath Bhachu<br>keerath.bhachu[at]mail.utoronto.ca<br>BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -123,7 +128,7 @@ feature_row6:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/vivian_profile.jpg
     excerpt: "Vivian Wang<br>vivianc.wang[at]mail.utoronto.ca<br>BCB330 student (2022)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
@@ -143,7 +148,7 @@ feature_row6:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/sabina_profile.jpg
     excerpt: "Sabina Parmegiani<br>sabina.parmegiani[at]mail.utoronto.ca<br>ROP student (2023)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
