@@ -11,6 +11,10 @@ feature_row:
 
 
 <ol>
+	<li><b>Chochinov CA</b>: 
+		<b><b>A matter of mutations: A novel high throughput approach to comprehensively score all single nucleotide variants in putative oncogenes.</b></b>
+		<i>MSc Thesis</i>. 2023.
+	</li>
 	<li>Claussnitzer M, Parikh VN, Wagner AH, Arbesfeld JA, Bult CJ, Firth HV, Muffley LA, <b>Nguyen Ba AN</b>, Riehle K, Roth FP, Tabet D, Bolognesi B, Glazer AM, Rubin AF: 
 		<b><b>Minimum information and guidelines for reporting a Multiplexed Assay of Variant Effect.</b></b>
 		<i>arXiv</i>. 2023.
