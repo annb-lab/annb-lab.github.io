@@ -56,7 +56,7 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/gauri_profile.jpb
+  - image_path: /assets/images/gauri_profile.jpg
     excerpt: "Gauri Menon<br>gaurisans.menon[at]mail.utoronto.ca<br>ROP Student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
