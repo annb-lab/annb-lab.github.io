@@ -51,28 +51,18 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/kortni.jpg
-    excerpt: "Kortni Kindree<br>kortni.kindree[at]mail.utoronto.ca<br>BIO481 student<br>Joining the lab next year for MSc"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/samantha.jpg
-    excerpt: "Samantha Bestavros<br>samantha.bestavros[at]mail.utoronto.ca<br>BIO481 student<br>Soon to Med School at UofT"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
   - image_path: /assets/images/genome.png
     excerpt: "Evelina Tronina<br>evelina.tronina[at]mail.utoronto.ca<br>UTEA Awardee"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/genome.png
-    excerpt: "Joseph Yu<br>yujoseph.yu[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Gauri Menon<br>gaurisans.menon[at]mail.utoronto.ca<br>ROP Student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/genome.png
-    excerpt: "Sabina Parmegiani<br>sabina.parmegiani[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Seema Mahmalji<br>seema.mahmalji[at]mail.utoronto.ca<br>ROP Student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -86,9 +76,9 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
-  - image_path: /assets/images/claire.jpg
-    excerpt: "<b> Claire Chochinov</b><br>
-	Claire is interested in developing molecular techniques to expand deep-mutational scanning in human genes. Claire is developping approaches to measure mutation rates of variants in oncogenes in high-throughput. Claire is funded by a CIHR CGS-M. <br><br>claire.chochinov[at]mail.utoronto.ca
+  - image_path: /assets/images/kortni.jpg
+    excerpt: "<b> Kortni Kindree</b><br>
+	Kortni is interested in deciphering which genetic mutations cause rare diseases in human. She uses deep-mutational scanning to characterize these variants. <br><br>kortni.kindree[at]mail.utoronto.ca
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
@@ -119,7 +109,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/nicolas.jpg
-    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student (2021)<br>Soon to Med school at St. George"
+    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student (2021)<br>Med school at St. George"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -140,6 +130,26 @@ feature_row6:
     style: "width:150px;"
   - image_path: /assets/images/yunyi.jpg
     excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student (2021)"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/samantha.jpg
+    excerpt: "Samantha Bestavros<br>samantha.bestavros[at]mail.utoronto.ca<br>BIO481 student (2023)<br>Med School at UofT"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/joseph.jpg
+    excerpt: "Joseph Yu<br>yujoseph.yu[at]mail.utoronto.ca<br>ROP student (2023)"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Sabina Parmegiani<br>sabina.parmegiani[at]mail.utoronto.ca<br>ROP student (2023)"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/claire_profile.jpg
+    excerpt: "Claire Chochinov<br>claire.chochinov[at]mail.utoronto.ca<br>MSc student(2023)<br>On the job market!"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
