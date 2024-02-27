@@ -21,7 +21,7 @@ feature_row:
 	</li>
 	<li>Claussnitzer M, Parikh VN, Wagner AH, Arbesfeld JA, Bult CJ, Firth HV, Muffley LA, <b>Nguyen Ba AN</b>, Riehle K, Roth FP, Tabet D, Bolognesi B, Glazer AM, Rubin AF: 
 		<b><b>Minimum information and guidelines for reporting a Multiplexed Assay of Variant Effect.</b></b>
-		<i>arXiv</i>. 2023.
+		<i>Genome Biology</i>. 2023.
 	</li>
 	<li>Jagdish T, <b>Nguyen Ba AN</b>: 
 		<b><b>Experimental evolution in a massively multiplexed and high-throughput era.</b></b>
