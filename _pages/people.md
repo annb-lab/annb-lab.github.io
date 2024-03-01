@@ -52,7 +52,7 @@ feature_row3:
 
 feature_row4:
   - image_path: /assets/images/genome.png
-    excerpt: "Evelina Tronina<br>evelina.tronina[at]mail.utoronto.ca<br>UTEA Awardee"
+    excerpt: "Evelina Tronina<br>evelina.tronina[at]mail.utoronto.ca<br>UTEA Awardee<br>Soon to UChicago Grad"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -67,7 +67,7 @@ feature_row4:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/keerath_profile.jpg
-    excerpt: "Keerath Bhachu<br>keerath.bhachu[at]mail.utoronto.ca<br>BIO481 student"
+    excerpt: "Keerath Bhachu<br>keerath.bhachu[at]mail.utoronto.ca<br>BIO481 student<br>Soon to UofT Grad"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -134,7 +134,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/yunyi.jpg
-    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student (2021)"
+    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student (2021)<br>Soon at Harvard"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -154,7 +154,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/claire_profile.jpg
-    excerpt: "Claire Chochinov<br>claire.chochinov[at]mail.utoronto.ca<br>MSc student (2023)<br>On the job market!"
+    excerpt: "Claire Chochinov<br>claire.chochinov[at]mail.utoronto.ca<br>MSc student (2023)<br>Now at Xtalks"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
