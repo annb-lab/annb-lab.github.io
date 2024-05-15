@@ -51,23 +51,28 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/evelina_profile1.jpg
     excerpt: "Evelina Tronina<br>evelina.tronina[at]mail.utoronto.ca<br>UTEA Awardee<br>Soon to UChicago Grad"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/gauri_profile.jpg
-    excerpt: "Gauri Menon<br>gaurisans.menon[at]mail.utoronto.ca<br>ROP Student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/seema_profile.jpg
-    excerpt: "Seema Mahmalji<br>seema.mahmalji[at]mail.utoronto.ca<br>ROP Student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/keerath_profile.jpg
     excerpt: "Keerath Bhachu<br>keerath.bhachu[at]mail.utoronto.ca<br>BIO481 student<br>Soon to UofT Grad"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/josie_profile.jpg
+    excerpt: "Keerath Bhachu<br>josie.fratarcangeli[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/khue.jpg
+    excerpt: "Keerath Bhachu<br>khue.tran[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Mumtaz Hajjo Alrifai<br>mumtaz.hajjo.alrifai[at]mail.utoronto.ca<br>UTEA Awardee"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -98,43 +103,18 @@ feature_row5:
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
 feature_row6:
-  - image_path: /assets/images/wen.jpg
-    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student (2020)<br>Now at Yale"
+  - image_path: /assets/images/gauri_profile.jpg
+    excerpt: "Gauri Menon<br>gaurisans.menon[at]mail.utoronto.ca<br>ROP Student (2023)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/KhekaniM_headshot.jpg
-    excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>BIO481 (2021)<br>Now at UofT Dentistry"
+  - image_path: /assets/images/seema_profile.jpg
+    excerpt: "Seema Mahmalji<br>seema.mahmalji[at]mail.utoronto.ca<br>ROP Student (2023)"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/rutvik.jpg
-    excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student (2021)<br>Now at NYU Dentistry"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/nicolas.jpg
-    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student (2021)<br>Med school at St. George"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/sophia.jpg
-    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student (2022)<br>Now UTEA awardee in Ogata lab"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/zainab.jpg
-    excerpt: "Zainab Farrukh<br>zainab.farrukh[at]mail.utoronto.ca<br>ROP student (2022)"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/vivian_profile.jpg
-    excerpt: "Vivian Wang<br>vivianc.wang[at]mail.utoronto.ca<br>BCB330 student (2022)"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/yunyi.jpg
-    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student (2021)<br>Soon at Harvard"
+  - image_path: /assets/images/claire_profile.jpg
+    excerpt: "Claire Chochinov<br>claire.chochinov[at]mail.utoronto.ca<br>MSc student (2023)<br>Now at Xtalks"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -153,11 +133,48 @@ feature_row6:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/claire_profile.jpg
-    excerpt: "Claire Chochinov<br>claire.chochinov[at]mail.utoronto.ca<br>MSc student (2023)<br>Now at Xtalks"
+  - image_path: /assets/images/sophia.jpg
+    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student (2022)<br>Now UTEA awardee in Ogata lab"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
+  - image_path: /assets/images/zainab.jpg
+    excerpt: "Zainab Farrukh<br>zainab.farrukh[at]mail.utoronto.ca<br>ROP student (2022)"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/vivian_profile.jpg
+    excerpt: "Vivian Wang<br>vivianc.wang[at]mail.utoronto.ca<br>BCB330 student (2022)"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/KhekaniM_headshot.jpg
+    excerpt: "Mustafa Khekani<br>mustafa.khekani[at]mail.utoronto.ca<br>BIO481 (2021)<br>Now at UofT Dentistry"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/rutvik.jpg
+    excerpt: "Rutvik Patel<br>rutvik.patel[at]mail.utoronto.ca<br>ROP student (2021)<br>Now at NYU Dentistry"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/nicolas.jpg
+    excerpt: "Nicolas Rea<br>nicolas.rea[at]mail.utoronto.ca<br>ROP student (2021)<br>Med school at St. George"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/yunyi.jpg
+    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student (2021)<br>Soon at Harvard"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/wen.jpg
+    excerpt: "Wen Tong<br>wen.tong[at]mail.utoronto.ca<br>BIO481 student (2020)<br>Now at Yale"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+
+
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
