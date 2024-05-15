@@ -31,6 +31,7 @@ Study from PNAS (<a href='https://www.pnas.org/doi/10.1073/pnas.1821936116' targ
 Meta-analysis of faculty's teaching effectiveness: Student evaluation of teaching ratings and student learning are not related. (<a href='https://www.sciencedirect.com/science/article/pii/S0191491X16300323' target='_blank'>Bob Uttl, Carmela White and Daniela Wong Gonzalez (Studies in Educational Evaluation, 2017)</a>) 
 <br>
 <a href='https://www.harvardmagazine.com/2012/03/twilight-of-the-lecture' target='_blank'>Eric Mazur interview on teaching methodologies and student evaluations</a>
+<br>
 The Art of Probability for Scientists and Engineers by Richard Hamming
 
 <h3>Quotes from Eric Mazur</h3>
