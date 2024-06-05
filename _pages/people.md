@@ -71,7 +71,7 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/mumtaz_profile.png
     excerpt: "Mumtaz Hajjo Alrifai<br>mumtaz.hajjo.alrifai[at]mail.utoronto.ca<br>UTEA Awardee"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
