@@ -9,12 +9,12 @@ William G. Davis Building<br>
 3359 Mississauga Rd<br>
 Mississauga, ON, L5L 1C6<br>
 Lab: DV4090C<br>
-Office: DV3036<br>
+Office: SB3016<br>
 <i class='far fa-envelope'></i> alex.nguyenba[at]utoronto.ca<br>
 <i class='fas fa-phone'></i> (905)-828-3729<br>
 
 <h2>Location</h2>
-Our lab is situated at the University of Toronto, Mississauga Campus in the William G. Davis building (DV). The UTM campus is a rapidly growing scientific hub of the University, with the construction of the New Science Building as the largest capital investment at UofT (about $170 million dollars). Our lab will be moving to this new building in 2023, and it will feature open concept collaborative research. An influx of new faculties (>5 in the next 3 years) will be incoming to the UTM Biology department to lead cutting-edge research and revamp the undergraduate curriculum to increase exposure to machine learning and data science in biology. Joining a graduate lab at UTM makes you part of two communities: the CSB graduate students and the UTM Biology students, which increases exposure and gives access to UTM-specific fellowships and funding.
+Our lab is situated at the University of Toronto, Mississauga Campus in the William G. Davis building (DV). The UTM campus is a rapidly growing scientific hub of the University, with the construction of the New Science Building as the largest capital investment at UofT (about $170 million dollars). Our lab is moving in the new science building in a matter of weeks and it will feature open concept collaborative research. An influx of new faculties (>5 in the next 3 years) will be incoming to the UTM Biology department to lead cutting-edge research and revamp the undergraduate curriculum to increase exposure to machine learning and data science in biology. Joining a graduate lab at UTM makes you part of two communities: the CSB graduate students and the UTM Biology students, which increases exposure and gives access to UTM-specific fellowships and funding.
 
 In the biological sciences, UofT consistently <a href='https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/biological-sciences' target='_blank'>ranks</a> as one of the best universities in the world, achieving better scores than world-renowned scientific hubs such as UCSF and Princeton.
 <br>
