@@ -62,12 +62,12 @@ feature_row4:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/josie_profile.jpg
-    excerpt: "Keerath Bhachu<br>josie.fratarcangeli[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Josie Fratarcangeli<br>josie.fratarcangeli[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/khue.jpg
-    excerpt: "Keerath Bhachu<br>khue.tran[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Khue Tran<br>khue.tran[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
