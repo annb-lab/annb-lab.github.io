@@ -51,23 +51,18 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/evelina_profile1.jpg
-    excerpt: "Evelina Tronina<br>evelina.tronina[at]mail.utoronto.ca<br>UTEA Awardee<br>Soon to UChicago Grad"
+  - image_path: /assets/images/amelia_profile.png
+    excerpt: "Amelia Caron<br>a.caron[at]mail.utoronto.ca<br>BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/keerath_profile.jpg
-    excerpt: "Keerath Bhachu<br>keerath.bhachu[at]mail.utoronto.ca<br>BIO481 student<br>Soon to UofT Grad"
+  - image_path: /assets/images/molly_profile.png
+    excerpt: "Molly McDonald<br>molly.mcdonald[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/josie_profile.jpg
-    excerpt: "Josie Fratarcangeli<br>josie.fratarcangeli[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/khue.jpg
-    excerpt: "Khue Tran<br>khue.tran[at]mail.utoronto.ca<br>ROP student"
+  - image_path: /assets/images/zaynab_profile.png
+    excerpt: "Zaynab Mamai<br>zaynab.mamai[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -102,7 +97,30 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
+  - image_path: /assets/images/keerath_profile.jpg
+    excerpt: "<b> Keerath Bhachu</b><br>
+    	Keerath is interested in pharmacogenomics and the intersection of genetics and drug treatments. <br><br>keerath.bhachu[at]mail.utoronto.ca
+    	"
+    body_style: "flex-grow: 1"
+    row_style: "display: flex; width:100%"
+    teaser_style: "width:200px"
+    style: "width:150px;"
 feature_row6:
+  - image_path: /assets/images/khue.jpg
+    excerpt: "Khue Tran<br>khue.tran[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/evelina_profile1.jpg
+    excerpt: "Evelina Tronina<br>evelina.tronina[at]mail.utoronto.ca<br>UTEA Awardee<br>Now at UChicago"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/josie_profile.jpg
+    excerpt: "Josie Fratarcangeli<br>josie.fratarcangeli[at]mail.utoronto.ca<br>ROP student (2024)"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
   - image_path: /assets/images/gauri_profile.jpg
     excerpt: "Gauri Menon<br>gaurisans.menon[at]mail.utoronto.ca<br>ROP Student (2023)"
     body_style: "text-align: center;"
