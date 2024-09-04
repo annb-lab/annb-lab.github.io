@@ -51,17 +51,17 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/amelia_profile.png
+  - image_path: /assets/images/amelia_profile.jpg
     excerpt: "Amelia Caron<br>a.caron[at]mail.utoronto.ca<br>BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/molly_profile.png
+  - image_path: /assets/images/molly_profile.jpg
     excerpt: "Molly McDonald<br>molly.mcdonald[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/zaynab_profile.png
+  - image_path: /assets/images/zaynab_profile.jpg
     excerpt: "Zaynab Mamai<br>zaynab.mamai[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
@@ -83,7 +83,7 @@ feature_row5:
     body_style: "flex-grow: 1"
   - image_path: /assets/images/kortni.jpg
     excerpt: "<b> Kortni Kindree</b><br>
-	Kortni is interested in deciphering which genetic mutations cause rare diseases in human. She uses deep-mutational scanning to characterize these variants. <br><br>kortni.kindree[at]mail.utoronto.ca
+	Kortni is interested in deciphering which genetic mutations cause rare diseases in human. She uses deep-mutational scanning to characterize these variants.  Kortni is funded by a CIHR CGS-M. <br><br>kortni.kindree[at]mail.utoronto.ca
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
@@ -99,7 +99,7 @@ feature_row5:
     body_style: "flex-grow: 1"
   - image_path: /assets/images/keerath_profile.jpg
     excerpt: "<b> Keerath Bhachu</b><br>
-    	Keerath is interested in pharmacogenomics and the intersection of genetics and drug treatments. <br><br>keerath.bhachu[at]mail.utoronto.ca
+    	Keerath is interested in pharmacogenomics and the intersection of genetics and drug treatments. Keerath is funded by a CIHR CGS-M. <br><br>keerath.bhachu[at]mail.utoronto.ca
     	"
     body_style: "flex-grow: 1"
     row_style: "display: flex; width:100%"
