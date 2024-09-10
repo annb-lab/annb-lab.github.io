@@ -132,7 +132,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/claire_profile.jpg
-    excerpt: "Claire Chochinov<br>claire.chochinov[at]mail.utoronto.ca<br>MSc student (2023)<br>Now at Xtalks"
+    excerpt: "Claire Chochinov<br>claire.chochinov[at]mail.utoronto.ca<br>MSc student (2023)<br>Now at SysAid"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -182,7 +182,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/yunyi.jpg
-    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student (2021)<br>Soon at Harvard"
+    excerpt: "Yunyi Cheng<br>yunyi.cheng[at]mail.utoronto.ca<br>BCB330 student (2021)<br>Now at Harvard"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
