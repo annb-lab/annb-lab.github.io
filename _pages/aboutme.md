@@ -13,7 +13,7 @@ feature_row:
 	</div>
 	<br>
 	I'm an Assistant Professor at the <a href='http://www.toronto.edu/' target='_blank'>University of Toronto <i class='fas fa-external-link-alt'></i></a>.<br>
-	I'm appointed in the Department of Cell & Systems Biology and part of the growing computational biology and high-throughput genetics community in Toronto.
+	I'm appointed in the Department of Cell & Systems Biology and part of the growing computational biology and high-throughput genetics community in Toronto. I am co-chair of the Experimental Techniques and Standards workstream for the <a href='https://www.varianteffect.org/' target='_blank'>Atlas of Variant Effects Alliance</a>, and I lead the <a href='https://www.varianteffect.org/podcast' target='_blank'>Variants and US Podcast</a>.
     "
     style: "width:150px"
     body_style: "vertical-align: top;"
