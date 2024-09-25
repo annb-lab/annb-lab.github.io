@@ -5,7 +5,7 @@ classes: wide
 ---
 
 Alex N. Nguyen Ba<br>
-William G. Davis Building<br>
+Science Building<br>
 3359 Mississauga Rd<br>
 Mississauga, ON, L5L 1C6<br>
 Lab: SB3067<br>
