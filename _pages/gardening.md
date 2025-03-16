@@ -18,7 +18,7 @@ classes: wide
           <div class="archive__item-teaser" style="float:none;display:table-cell">
 		<div style="display:flex;flex-wrap:wrap">
 			<div>
-            		<img src="/assets/images/annb_dahlia_compressed.jpg" alt="" style="max-height:139px;max-width:185px"/>
+            		<img src="/assets/images/annb_dahlia_compressed.jpg" alt="" style="max-height:210px;max-width:185px"/>
 			</div>
 		</div>
           </div>
