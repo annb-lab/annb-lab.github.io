@@ -44,7 +44,7 @@ feature_row3:
 	<div class="archive__item-body" style="float:none;display:table-cell;vertical-align: top;">
 	      <div class="archive__item-excerpt">
               <p><b> Hobbies </b><br /> I love nature and hanging out with friends.<br /> I biked the Danube trail from Passau to Vienna, I hiked part of the West Highland way in Scotland, and climb as many mountains with as many friends as I can.<br />
-					I watch terrible movies, aspire to train my cat to hike with me, and have attempted to make mozzarella dozens of time before giving up. I also love to <a href=../gardening/>garden</a>.
+					I watch terrible movies, aspire to train my cat to hike with me, and have attempted to make mozzarella dozens of time before giving up. I also love to <a href='../gardening/'>garden</a>.
 		</p>
             	
 		</div>
