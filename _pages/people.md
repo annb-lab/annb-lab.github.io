@@ -221,7 +221,8 @@ feature_row6:
 {% include feature_row id="feature_row4" %}
 <!--
 <h2>Mentees/Collaborators</h2>
-During my postdoctoral research in Michael Desai's lab, I was directly involved in the mentorship of several graduate students and remain close to them. I consider these scientists more as collaborators and still work with them as they advance in their careers. -->
+During my postdoctoral research in Michael Desai's lab, I was directly involved in the mentorship of several graduate students and remain close to them. I consider these scientists more as collaborators and still work with them as they advance in their careers.
 {% include feature_row id="feature_row3" %}
+ -->
 <h2>Lab Alumni</h2>
 {% include feature_row id="feature_row6" %}
