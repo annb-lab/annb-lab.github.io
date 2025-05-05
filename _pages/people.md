@@ -51,8 +51,18 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/amelia_profile.jpg
-    excerpt: "Amelia Caron<br>a.caron[at]mail.utoronto.ca<br>BIO481 student"
+  - image_path: /assets/images/marta_profile.png
+    excerpt: "Marta Mhanna<br>marta.mhanna[at]mail.utoronto.ca<br>UTEA Awardee"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/giulia_profile.png
+    excerpt: "Giulia Nuvoloni<br>giulia.nuvoloni[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/hala_profile.png
+    excerpt: "Hala Bishtawi<br>hala.bishtawi[at]mail.utoronto.ca<br>ROP Student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -61,13 +71,8 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/zaynab_profile.jpg
-    excerpt: "Zaynab Mamai<br>zaynab.mamai[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
   - image_path: /assets/images/mumtaz_profile.png
-    excerpt: "Mumtaz Hajjo Alrifai<br>mumtaz.hajjo.alrifai[at]mail.utoronto.ca<br>UTEA Awardee"
+    excerpt: "Mumtaz Hajjo Alrifai<br>mumtaz.hajjo.alrifai[at]mail.utoronto.ca<br>UTEA Awardee<br>ROP Student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -105,7 +110,20 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     style: "width:150px;"
+  - image_path: /assets/images/amelia_profile.jpg
+    excerpt: "<b> Amelia Caron</b><br>
+    	Amelia is interested in variant effect mapping in humanized yeast models. Amelia won the best BIO481 thesis in 2025 and will be continuing her work for her MSc. <br><br>a.caron[at]mail.utoronto.ca
+    	"
+    body_style: "flex-grow: 1"
+    row_style: "display: flex; width:100%"
+    teaser_style: "width:200px"
+    style: "width:150px;"
 feature_row6:
+  - image_path: /assets/images/zaynab_profile.jpg
+    excerpt: "Zaynab Mamai<br>zaynab.mamai[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
   - image_path: /assets/images/khue.jpg
     excerpt: "Khue Tran<br>khue.tran[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
@@ -201,8 +219,9 @@ feature_row6:
 {% include feature_row id="feature_row5" type="left" %}
 <h2>Undergraduate students</h2>
 {% include feature_row id="feature_row4" %}
+<!--
 <h2>Mentees/Collaborators</h2>
-During my postdoctoral research in Michael Desai's lab, I was directly involved in the mentorship of several graduate students and remain close to them. I consider these scientists more as collaborators and still work with them as they advance in their careers.
+During my postdoctoral research in Michael Desai's lab, I was directly involved in the mentorship of several graduate students and remain close to them. I consider these scientists more as collaborators and still work with them as they advance in their careers. -->
 {% include feature_row id="feature_row3" %}
 <h2>Lab Alumni</h2>
 {% include feature_row id="feature_row6" %}
