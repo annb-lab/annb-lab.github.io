@@ -3,7 +3,7 @@ permalink: /outreach/
 title: "Outreach"
 classes: wide
 ---
-
+<script src="https://kit.fontawesome.com/406f990e5b.js" crossorigin="anonymous"></script>
 Our lab participates in several outreach efforts to increase awareness on rare disease research and quantitative genetics.
 
 <h2>VUS Podcast</h2>
