@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 classes: wide 
 ---
-
+<script src="https://kit.fontawesome.com/406f990e5b.js" crossorigin="anonymous"></script>
 Alex N. Nguyen Ba<br>
 Science Building<br>
 3359 Mississauga Rd<br>
