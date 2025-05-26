@@ -7,7 +7,7 @@ classes: wide
 Our lab participates in several outreach efforts to increase awareness on rare disease research and quantitative genetics.
 
 <h2>VUS Podcast</h2>
-Our lab leads the VUS podcast, a series initiated by the Atlas of Variants Effects Alliance to raise awareness on the basic and translational research behind rare diseases with the hope that it will lead to better patient care. You can read more and listen to it on the <a href='https://www.varianteffect.org/podcast/' target="_blank">AVE website <i class="fas fa-external-link-alt"></i></a>.
+Our lab leads the VUS podcast, a series initiated by the Atlas of Variants Effects Alliance to raise awareness on the basic and translational research behind rare diseases with the hope that it will lead to better patient care. You can read more and listen to it on the <a href='https://www.varianteffect.org/podcast/' target="_blank">AVE website <i class="fa-solid fa-up-right-from-square"></i></i></a>.
 
 <h2>INSPIRE</h2>
 
