@@ -3,7 +3,7 @@ permalink: /opportunities/
 title: "Opportunities"
 classes: wide
 ---
-
+<script src="https://kit.fontawesome.com/406f990e5b.js" crossorigin="anonymous"></script>
 <h2>Interested in grad school?</h2>
 <p>
 We are always on the lookout for talented students interested in exploring questions about evolution in well-controlled systems and quantitative genetics in all areas of life. Our team is using high-throughput experimental approaches to address these questions (for more on that, see our <a href="../research/">Research</a> page). 
