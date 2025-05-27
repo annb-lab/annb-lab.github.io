@@ -70,3 +70,6 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+head_scripts:
+  - https://kit.fontawesome.com/406f990e5b.js
