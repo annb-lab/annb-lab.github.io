@@ -13,7 +13,7 @@ feature_row:
 <ol>
 	<li><b>N'Guessan A, Tong WY, Heydari H, Nguyen Ba AN</b>: 
 		<b><b>Refining the resolution of the yeast genotype-phenotype map using single-cell RNA-sequencing.</b></b>
-		<i>eLife</i>. 2023.
+		<i>eLife</i>. 2025 Jul 28:13:RP93906. <a href="/assets/publications/NGuessan_eLife_96906.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
 	</li>
 	<li><b>Chochinov CA</b>: 
 		<b><b>A matter of mutations: A novel high throughput approach to comprehensively score all single nucleotide variants in putative oncogenes.</b></b>
