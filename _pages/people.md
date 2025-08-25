@@ -56,36 +56,18 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/giulia_profile.png
-    excerpt: "Giulia Nuvoloni<br>giulia.nuvoloni[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/hala_profile.png
-    excerpt: "Hala Bishtawi<br>hala.bishtawi[at]mail.utoronto.ca<br>ROP Student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
   - image_path: /assets/images/molly_profile.jpg
-    excerpt: "Molly McDonald<br>molly.mcdonald[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Molly McDonald<br>molly.mcdonald[at]mail.utoronto.ca<br>ROP and BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/mumtaz_profile.png
-    excerpt: "Mumtaz Hajjo Alrifai<br>mumtaz.hajjo.alrifai[at]mail.utoronto.ca<br>UTEA Awardee<br>ROP Student"
+    excerpt: "Mumtaz Hajjo Alrifai<br>mumtaz.hajjo.alrifai[at]mail.utoronto.ca<br>UTEA Awardee<br>ROP and BIO481 Student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
     
 feature_row5:
-  - image_path: /assets/images/NikolskyA_headshot.jpg
-    excerpt: "<b> Anita Nikolsky</b><br>
-	Anita is interested in understanding how different vaccine dosage regimens fundamentally alters the evolutionary process behind the adaptive immune response and will be applying our lineage tracking strategies to B-cells. Anita is funded by a CIHR CGS-M. <br><br>anita.nikolsky[at]mail.utoronto.ca
-	"
-    style: "width:150px;"
-    row_style: "display: flex; width:100%"
-    teaser_style: "width:200px"
-    body_style: "flex-grow: 1"
   - image_path: /assets/images/kortni.jpg
     excerpt: "<b> Kortni Kindree</b><br>
 	Kortni is interested in deciphering which genetic mutations cause rare diseases in human, and understanding how mutations lead to functional divergence in proteins. She uses deep-mutational scanning to characterize these variants.  Kortni is funded by a CIHR CGS-M. <br><br>kortni.kindree[at]mail.utoronto.ca
@@ -119,6 +101,21 @@ feature_row5:
     teaser_style: "width:200px"
     style: "width:150px;"
 feature_row6:
+  - image_path: /assets/images/giulia_profile.png
+    excerpt: "Giulia Nuvoloni<br>giulia.nuvoloni[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/hala_profile.png
+    excerpt: "Hala Bishtawi<br>hala.bishtawi[at]mail.utoronto.ca<br>ROP Student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/NikolskyA_headshot.jpg
+    excerpt: "Anita Nikolsky<br>anita.nikolsky[at]mail.utoronto.ca<br>MSc student<br>Soon to Med School at Queen's"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
   - image_path: /assets/images/zaynab_profile.jpg
     excerpt: "Zaynab Mamai<br>zaynab.mamai[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
