@@ -66,9 +66,14 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
+  - image_path: /assets/images/sarah_profile.jpg
+    excerpt: "Sarah Olsen<br>sarah.olsen[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
     
 feature_row5:
-  - image_path: /assets/images/kortni.jpg
+  - image_path: /assets/images/kortni_profile.png
     excerpt: "<b> Kortni Kindree</b><br>
 	Kortni is interested in deciphering which genetic mutations cause rare diseases in human, and understanding how mutations lead to functional divergence in proteins. She uses deep-mutational scanning to characterize these variants.  Kortni is funded by a CIHR CGS-M. <br><br>kortni.kindree[at]mail.utoronto.ca
 	"
