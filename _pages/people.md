@@ -71,6 +71,11 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
+  - image_path: /assets/images/kiara_profile.jpg
+    excerpt: "Kiara Blaic<br>kiara.blaic[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
     
 feature_row5:
   - image_path: /assets/images/kortni_profile.png
