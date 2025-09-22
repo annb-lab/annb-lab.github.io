@@ -94,7 +94,7 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
-  - image_path: /assets/images/keerath_profile.jpg
+  - image_path: /assets/images/keerath_profile2.png
     excerpt: "<b> Keerath Bhachu</b><br>
     	Keerath is interested in pharmacogenomics and the intersection of genetics and drug treatments. She is using deep-mutational scanning as a tool to investigate drug-protein interactions. Keerath is funded by a CIHR CGS-M. <br><br>keerath.bhachu[at]mail.utoronto.ca
     	"
