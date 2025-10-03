@@ -187,7 +187,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/zainab.jpg
-    excerpt: "Zainab Farrukh<br>zainab.farrukh[at]mail.utoronto.ca<br>ROP student (2022)"
+    excerpt: "Zainab Farrukh<br>zainab.farrukh[at]mail.utoronto.ca<br>ROP student (2022)<br>Now at Robert Larner College of Medicine"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
