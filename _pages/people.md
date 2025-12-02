@@ -122,7 +122,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/NikolskyA_headshot.jpg
-    excerpt: "Anita Nikolsky<br>anita.nikolsky[at]mail.utoronto.ca<br>MSc student<br>Soon to Med School at Queen's"
+    excerpt: "Anita Nikolsky<br>anita.nikolsky[at]mail.utoronto.ca<br>MSc student<br>Now Med School at Queen's"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -137,7 +137,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/vanessa_profile.jpg
-    excerpt: "Vanessa Finnerty<br>vanessa.finnerty[at]mail.utoronto.ca<br>ROP student<br>Soon to Med School at Queen's"
+    excerpt: "Vanessa Finnerty<br>vanessa.finnerty[at]mail.utoronto.ca<br>ROP student<br>Now Med School at Queen's"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -167,7 +167,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/samantha.jpg
-    excerpt: "Samantha Bestavros<br>samantha.bestavros[at]mail.utoronto.ca<br>BIO481 student (2023)<br>Med School at UofT"
+    excerpt: "Samantha Bestavros<br>samantha.bestavros[at]mail.utoronto.ca<br>BIO481 student (2023)<br>Now Med School at UofT"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
