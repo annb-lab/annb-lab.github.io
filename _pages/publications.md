@@ -11,6 +11,10 @@ feature_row:
 
 
 <ol>
+	<li><b>Kindree K, Chochinov CA, Bhachu K, Cheng Y, Caron A, McDonald M, Mamai Z, Nguyen Ba AN</b>: 
+		<b><b>Deep-mutational scanning libraries using tiled-region exchange mutagenesis.</b></b>
+		<i>G3</i>. In Press</i></a>
+	</li>
 	<li><b>N'Guessan A, Tong WY, Heydari H, Nguyen Ba AN</b>: 
 		<b><b>Refining the resolution of the yeast genotype-phenotype map using single-cell RNA-sequencing.</b></b>
 		<i>eLife</i>. 2025 Jul 28:13:RP93906. <a href="/assets/publications/NGuessan_eLife_96906.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
