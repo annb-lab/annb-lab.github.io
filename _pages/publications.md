@@ -11,7 +11,7 @@ feature_row:
 
 
 <ol>
-	<li><b>Kindree K, Chochinov CA, Bhachu K, Cheng Y, Caron A, McDonald M, Mamai Z, Nguyen Ba AN</b>: 
+	<li><b>Kindree K*, Chochinov CA*, Bhachu K*, Cheng Y, Caron A, McDonald M, Mamai Z, Nguyen Ba AN</b>: 
 		<b><b>Deep-mutational scanning libraries using tiled-region exchange mutagenesis.</b></b>
 		<i>G3</i>. In Press</i></a>
 	</li>
