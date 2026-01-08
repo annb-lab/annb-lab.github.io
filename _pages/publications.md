@@ -11,7 +11,7 @@ feature_row:
 
 
 <ol>
-	<li><b>N’Guessan A, Wang V, Bakerlee CW, Belousova J, Brenna G, Dillingham ME, Dupic T, Gopalakrishnan S, Goyal J, Gupta M, Holmes C, Humphrey PT, Jagdish T, Jerison ER, Johnson MS, Kosheleva K, Lawrence KR, Min J,  Moulana A, Pai SV, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, Ruiz-Bedoya T, Trivellin C, McDonald MJ, Desai MM, Nguyen Ba AN</b>: 
+	<li><b>N’Guessan A, Wang V</b>, Bakerlee CW, Belousova J, Brenna G, Dillingham ME, Dupic T, Gopalakrishnan S, Goyal J, Gupta M, Holmes C, Humphrey PT, Jagdish T, Jerison ER, Johnson MS, Kosheleva K, Lawrence KR, Min J,  Moulana A, Pai SV, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, Ruiz-Bedoya T, Trivellin C, McDonald MJ, Desai MM, <b>Nguyen Ba AN</b>: 
 		<b><b>Parallel but distinct adaptive routes in the budding and fission yeasts after 10,000 generations of experimental evolution.</b></b>
 		<i>Nat. Ecol. Evol.</i>. In Press</i></a>
 	</li>
