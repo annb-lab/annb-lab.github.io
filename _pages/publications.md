@@ -13,11 +13,11 @@ feature_row:
 <ol>
 	<li><b>N’Guessan A, Wang V</b>, Bakerlee CW, Belousova J, Brenna G, Dillingham ME, Dupic T, Gopalakrishnan S, Goyal J, Gupta M, Holmes C, Humphrey PT, Jagdish T, Jerison ER, Johnson MS, Kosheleva K, Lawrence KR, Min J,  Moulana A, Pai SV, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, Ruiz-Bedoya T, Trivellin C, McDonald MJ, Desai MM, <b>Nguyen Ba AN</b>: 
 		<b><b>Parallel but distinct adaptive routes in the budding and fission yeasts after 10,000 generations of experimental evolution.</b></b>
-		<i>Nat. Ecol. Evol. In Press</i></a>
+		<i>Nat. Ecol. Evol. In Press</i>
 	</li>
 	<li><b>Kindree K*, Chochinov CA*, Bhachu K*, Cheng Y, Caron A, McDonald M, Mamai Z, Nguyen Ba AN</b>: 
 		<b><b>Deep-mutational scanning libraries using tiled-region exchange mutagenesis.</b></b>
-		<i>G3. In Press</i></a>
+		<i>G3. In Press</i>
 	</li>
 	<li><b>N'Guessan A, Tong WY, Heydari H, Nguyen Ba AN</b>: 
 		<b><b>Refining the resolution of the yeast genotype-phenotype map using single-cell RNA-sequencing.</b></b>
