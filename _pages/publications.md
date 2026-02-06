@@ -23,13 +23,13 @@ feature_row:
 		<b><b>Refining the resolution of the yeast genotype-phenotype map using single-cell RNA-sequencing.</b></b>
 		<i>eLife</i>. 2025 Jul 28:13:RP93906. <a href="/assets/publications/NGuessan_eLife_96906.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
 	</li>
+	<li>Claussnitzer M, Parikh VN, Wagner AH, Arbesfeld JA, Bult CJ, Firth HV, Muffley LA, <b>Nguyen Ba AN</b>, Riehle K, Roth FP, Tabet D, Bolognesi B, Glazer AM, Rubin AF: 
+		<b><b>Minimum information and guidelines for reporting a Multiplexed Assay of Variant Effect.</b></b>
+		<i>Genome Biology</i>. 2024 Apr 19;25(1):100. <a href="/assets/publications/Claussnitzer_gbiol_2024_s13059-024-03223-9.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
+	</li>
 	<li><b>Chochinov CA</b>: 
 		<b><b>A matter of mutations: A novel high throughput approach to comprehensively score all single nucleotide variants in putative oncogenes.</b></b>
 		<i>MSc Thesis</i>. 2023.
-	</li>
-	<li>Claussnitzer M, Parikh VN, Wagner AH, Arbesfeld JA, Bult CJ, Firth HV, Muffley LA, <b>Nguyen Ba AN</b>, Riehle K, Roth FP, Tabet D, Bolognesi B, Glazer AM, Rubin AF: 
-		<b><b>Minimum information and guidelines for reporting a Multiplexed Assay of Variant Effect.</b></b>
-		<i>Genome Biology</i>. 2023.
 	</li>
 	<li>Jagdish T, <b>Nguyen Ba AN</b>: 
 		<b><b>Experimental evolution in a massively multiplexed and high-throughput era.</b></b>
@@ -49,11 +49,12 @@ feature_row:
 	
 	<li>Bakerlee CW*, Philips AM*, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>Dynamics and variability in the pleiotropic effects of adaptation in laboratory budding yeast populations.</b></b>
-		<i>eLife</i>. 2021, Oct 1;10:e70918. <a href="/assets/publications/Bakerlee_2021_DPE_elife-70918-v2.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>	
+		<i>eLife</i>. 2021, Oct 1;10:e70918. <a href="/assets/publications/Bakerlee_2021_DPE_elife-70918-v2.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
+	</li>	
 	<li>Tung S, Bakerlee CW, Phillips AM, <b>Nguyen Ba AN</b>, Desai MM:
 		<b><b>The genetic basis of differential autodiploidization in evolving yeast populations.</b></b>
-		<i>G3</i>. 2021, Aug 7;11(8):jkab192. <a href="/assets/publications/Tung_BAD_jkab192.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
-	
+		<i>G3</i>. 2021, Aug 7;11(8):jkab192. <a href="/assets/publications/Tung_BAD_jkab192.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
+	</li>
 	<li>Johnson MS, Gopalakrishnan S, Goyal J, Dillingham ME, Bakerlee CW, Humphrey PT, Jagdish T, Jerison ER, Kosheleva K, Lawrence KR, Min J, Moulana A, Phillips AM, Piper JC, Purkanti R, Rego-Costa A, McDonald MJ, <b>Nguyen Ba AN</b>, Desai MM: 
 <b><b>Phenotypic and molecular evolution across 10,000 generations in laboratory budding yeast populations.</b></b>
 <i>eLife</i>. 2021;10:e63910. <a href="/assets/publications/Johnson_2021_elife-63910-v2.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a></li>
