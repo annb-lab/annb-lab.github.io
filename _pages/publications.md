@@ -17,7 +17,7 @@ feature_row:
 	</li>
 	<li><b>Kindree K*, Chochinov CA*, Bhachu K*, Cheng Y, Caron A, McDonald M, Mamai Z, Nguyen Ba AN</b>: 
 		<b><b>Deep-mutational scanning libraries using tiled-region exchange mutagenesis.</b></b>
-		<i>G3</i>. 2026 Jan 13:jkag006.
+		<i>G3</i>. 2026 Jan 13:jkag006. <a href="/assets/publications/Kindree_et_al_2026_g3_TRex.pdf" target='_blank'><i class="fa fa-file-pdf"></i></a>
 	</li>
 	<li><b>N'Guessan A, Tong WY, Heydari H, Nguyen Ba AN</b>: 
 		<b><b>Refining the resolution of the yeast genotype-phenotype map using single-cell RNA-sequencing.</b></b>
