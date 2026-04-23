@@ -80,7 +80,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/kortni_profile.png
     excerpt: "<b> Kortni Kindree</b><br>
-	Kortni is interested in deciphering which genetic mutations cause rare diseases in human, and understanding how mutations lead to functional divergence in proteins. She uses deep-mutational scanning to characterize these variants.  Kortni is funded by a CIHR CGS-M. <br><br>kortni.kindree[at]mail.utoronto.ca
+	Kortni is interested in deciphering which genetic mutations cause rare diseases in human, and understanding how mutations lead to functional divergence in proteins. She uses deep-mutational scanning to characterize these variants.  Kortni is funded by an NSERC CGS-D. <br><br>kortni.kindree[at]mail.utoronto.ca
 	"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
@@ -96,7 +96,7 @@ feature_row5:
     body_style: "flex-grow: 1"
   - image_path: /assets/images/keerath_profile2.png
     excerpt: "<b> Keerath Bhachu</b><br>
-    	Keerath is interested in pharmacogenomics and the intersection of genetics and drug treatments. She is using deep-mutational scanning as a tool to investigate drug-protein interactions. Keerath is funded by a CIHR CGS-M. <br><br>keerath.bhachu[at]mail.utoronto.ca
+    	Keerath is interested in pharmacogenomics and the intersection of genetics and drug treatments. She is using deep-mutational scanning as a tool to investigate drug-protein interactions. Keerath is funded by an NSERC CGS-D. <br><br>keerath.bhachu[at]mail.utoronto.ca
     	"
     body_style: "flex-grow: 1"
     row_style: "display: flex; width:100%"
