@@ -136,6 +136,11 @@ feature_row6:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Amy Shi<br>amyj.shi[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
   - image_path: /assets/images/vanessa_profile.jpg
     excerpt: "Vanessa Finnerty<br>vanessa.finnerty[at]mail.utoronto.ca<br>ROP student<br>Now Med School at Queen's"
     body_style: "text-align: center;"
