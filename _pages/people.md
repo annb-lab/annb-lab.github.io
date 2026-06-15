@@ -51,12 +51,12 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/bryan_profile.jpg
     excerpt: "Bryan Efealukwu<br>bryan.efealukwu[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/matab_profile.jpg
     excerpt: "Matab Elsawy<br>matab.elsawy[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
