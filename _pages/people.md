@@ -51,31 +51,27 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/marta_profile.png
-    excerpt: "Marta Mhanna<br>marta.mhanna[at]mail.utoronto.ca<br>UTEA Awardee"
+  - image_path: /assets/images/genome.png
+    excerpt: "Bryan Efealukwu<br>bryan.efealukwu[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Matab Elsawy<br>matab.elsawy[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Peter Tomchyshyn<br>peter.tomchyshyn[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/molly_profile.jpg
-    excerpt: "Molly McDonald<br>molly.mcdonald[at]mail.utoronto.ca<br>ROP and BIO481 student"
+    excerpt: "Molly McDonald<br>molly.mcdonald[at]mail.utoronto.ca<br>UTEA Awardee<br>ROP and BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/mumtaz_profile.png
-    excerpt: "Mumtaz Hajjo Alrifai<br>mumtaz.hajjo.alrifai[at]mail.utoronto.ca<br>UTEA Awardee<br>ROP and BIO481 Student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/sarah_profile.jpg
-    excerpt: "Sarah Olsen<br>sarah.olsen[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/kiara_profile.jpg
-    excerpt: "Kiara Blaic<br>kiara.blaic[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
+
     
 feature_row5:
   - image_path: /assets/images/kortni_profile.png
@@ -111,6 +107,26 @@ feature_row5:
     teaser_style: "width:200px"
     style: "width:150px;"
 feature_row6:
+  - image_path: /assets/images/marta_profile.png
+    excerpt: "Marta Mhanna<br>marta.mhanna[at]mail.utoronto.ca<br>UTEA Awardee"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/mumtaz_profile.png
+    excerpt: "Mumtaz Hajjo Alrifai<br>mumtaz.hajjo.alrifai[at]mail.utoronto.ca<br>UTEA Awardee<br>ROP and BIO481 Student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/sarah_profile.jpg
+    excerpt: "Sarah Olsen<br>sarah.olsen[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/kiara_profile.jpg
+    excerpt: "Kiara Blaic<br>kiara.blaic[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
   - image_path: /assets/images/giulia_profile.png
     excerpt: "Giulia Nuvoloni<br>giulia.nuvoloni[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
