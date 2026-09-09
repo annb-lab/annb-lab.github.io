@@ -51,27 +51,26 @@ feature_row3:
     style: "width:150px;"
 
 feature_row4:
-  - image_path: /assets/images/bryan_profile.jpg
-    excerpt: "Bryan Efealukwu<br>bryan.efealukwu[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/matab_profile.jpg
-    excerpt: "Matab Elsawy<br>matab.elsawy[at]mail.utoronto.ca<br>ROP student"
+  - image_path: /assets/images/khue.jpg
+    excerpt: "Khue Tran<br>khue.tran[at]mail.utoronto.ca<br>BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/genome.png
-    excerpt: "Peter Tomchyshyn<br>peter.tomchyshyn[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Sahar Himmati<br>sahar.himmati[at]mail.utoronto.ca<br>BIO481 student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/molly_profile.jpg
-    excerpt: "Molly McDonald<br>molly.mcdonald[at]mail.utoronto.ca<br>UTEA Awardee<br>ROP and BIO481 student"
+  - image_path: /assets/images/genome.png
+    excerpt: "Ester Campos Perez<br>ester.camposperez[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-
+  - image_path: /assets/images/genome.png
+    excerpt: "Lucy Carolan-Evans<br>lucy.carolanevans[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
     
 feature_row5:
   - image_path: /assets/images/kortni_profile.png
@@ -100,7 +99,7 @@ feature_row5:
     style: "width:150px;"
   - image_path: /assets/images/amelia_profile.jpg
     excerpt: "<b> Amelia Caron</b><br>
-    	Amelia is interested in variant effect mapping in humanized yeast models. Amelia won the best BIO481 thesis in 2025 in the UTM Biology Department, was recipient of the Dean's Excellence Award in the category of Research Excellence, and will be continuing her work for her MSc. <br><br>a.caron[at]mail.utoronto.ca
+    	Amelia is interested in variant effect mapping in humanized yeast models. Amelia won the best BIO481 thesis in 2025 in the UTM Biology Department, was recipient of the Dean's Excellence Award in the category of Research Excellence, and is continuing her work for her MSc. <br><br>a.caron[at]mail.utoronto.ca
     	"
     body_style: "flex-grow: 1"
     row_style: "display: flex; width:100%"
@@ -108,13 +107,36 @@ feature_row5:
     style: "width:150px;"
   - image_path: /assets/images/genome.png
     excerpt: "<b> Jimmy Issa</b><br>
-	Jimmy is co-supervised with the Ness lab and is interested in using AI models to predict population genetic parameters from genomes.<br><br>jimmy.issa[at]mail.utoronto.ca
-	"
+		Jimmy is co-supervised with the Ness lab and is interested in using AI models to predict population genetic parameters from genomes.<br><br>jimmy.issa[at]mail.utoronto.ca
+		"
     style: "width:150px;"
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
-    body_style: "flex-grow: 1"    
+    body_style: "flex-grow: 1"
+  - image_path: /assets/images/molly_profile.jpg
+    excerpt: "<b>Molly McDonald</b><br>
+		Molly is interested in variant effect mapping in humanized yeast models of porphyria and understanding genomic contextual effects. Molly is funded by an CIHR CGS-M. <br><br>molly.mcdonald[at]mail.utoronto.ca
+		"
+    style: "width:150px;"
+    row_style: "display: flex; width:100%"
+    teaser_style: "width:200px"
+    body_style: "flex-grow: 1"
 feature_row6:
+  - image_path: /assets/images/bryan_profile.jpg
+    excerpt: "Bryan Efealukwu<br>bryan.efealukwu[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/matab_profile.jpg
+    excerpt: "Matab Elsawy<br>matab.elsawy[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
+  - image_path: /assets/images/genome.png
+    excerpt: "Peter Tomchyshyn<br>peter.tomchyshyn[at]mail.utoronto.ca<br>ROP student"
+    body_style: "text-align: center;"
+    teaser_style: "text-align: center;"
+    style: "width:150px;"
   - image_path: /assets/images/marta_profile.png
     excerpt: "Marta Mhanna<br>marta.mhanna[at]mail.utoronto.ca<br>UTEA Awardee"
     body_style: "text-align: center;"
@@ -152,11 +174,6 @@ feature_row6:
     style: "width:150px;"
   - image_path: /assets/images/zaynab_profile.jpg
     excerpt: "Zaynab Mamai<br>zaynab.mamai[at]mail.utoronto.ca<br>ROP student"
-    body_style: "text-align: center;"
-    teaser_style: "text-align: center;"
-    style: "width:150px;"
-  - image_path: /assets/images/khue.jpg
-    excerpt: "Khue Tran<br>khue.tran[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
