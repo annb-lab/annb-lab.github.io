@@ -105,7 +105,7 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/jimmy_profile.png
     excerpt: "<b> Jimmy Issa</b><br>
 		Jimmy is co-supervised with the Ness lab and is interested in using AI models to predict population genetic parameters from genomes.<br><br>jimmy.issa[at]mail.utoronto.ca
 		"
