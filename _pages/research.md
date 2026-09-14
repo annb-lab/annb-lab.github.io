@@ -14,28 +14,18 @@ Thousands of polymorphisms in populations are responsible for phenotypic differe
   </p><p style="align:center">
 <img src="/assets/images/bbq.png" alt="" style="max-height:188;max-width:464" />
 </p>
-<h6><i class='fas fa-briefcase-medical'></i> Precision medicine</h6>
-<p>Our lab is participating in the effort to systematically characterize all functional missense variation in human genes. Our goal is to determine disease risks such as cancer <i>before</i> manifestation of symptoms (shifting medicine to a preventive science), and to reveal genetic determinants of inter-personal differences in molecular pathology to design better treatments,  
-</p>
-<h6>Relevance</h6>
-<p>We hope to develop machine learning models of the cell to bring new insight into biological diseases. Examples of current projects aim to develop technologies for regenerative medicine in addressing aggregation-prone proteins found in Parkinson's and for screening disregulations that lead to cancers.
-  </p>
-<h2><b>Evolution</b></h2>
-<p>Comparative genomics is the most popular approach to studying evolution. In contrast, our approach is to watch evolution as it happens, in the context of experiments that are performed under controlled conditions. We are interested in the dynamical process of selection and the evolutionary forces behind phenotypic changes. Ultimately, we hope to leverage our understanding of these processes to predict evolution.</p>
 <h6><i class='fas fa-flask'></i> Phenotypic evolution</h6>
 <p>Our lab makes use of several <a href="http://myxo.css.msu.edu/index.html" target="_blank">experimental evolution experiments <i class="fas fa-external-link-alt"></i></a> to dissect the cellular basis of adaptation. For example, we know that transcriptional regulation plays a major role in cellular differentiation. However, how <i>evolution</i> tinkers with regulatory networks is less clear.
  </p><p style="align:center">
 <img src="/assets/images/ilt.png" alt="" style="max-height:160;max-width:450" />
-
-</p>
-<h6><i class='fas fa-syringe'></i> Vaccinology</h6>
-<p>B-cells undergo a selection process in germinal centers akin to evolutionary dynamics in microbial populations. A quantitative modeling of these processes is critical for developing an understanding of the repeatability of this evolutionary system and how it can be applied to vaccination success.
-</p>
-<p>
-Our lab aims to understand how vaccine design is related to the underlying evolutionary process behind protective B-cell lineages.
 </p>
 
-<h6>Relevance</h6>
-<p>
-Our work in laboratory environments allows us to determine the relevant parameters of evolution, which can help in understanding and forecasting evolution in the real world. For example, note the similarity between the evolution of the Sars-CoV-2 variants of concern from <a href='https://www.medrxiv.org/content/10.1101/2020.12.24.20248822v1' target='_blank'>Davies et al, 2020<i class='fas fa-external-link-alt'></i></a> (left), when compared to <a href='https://www.nature.com/articles/s41586-019-1749-3' target='_blank'>high-resolution lineage tracking<i class='fas fa-external-link-alt'></i></a> of yeast populations in a flask (repeated evolution; right) : </p>
-<img src="/assets/images/sars_vs_yeast.png" alt="" style="max-height:300;max-width:400" />
+<h2><b>Variant effect mapping</b></h2>
+<p>Our lab has developed a straightforward pipeline to create all possible amino acid variation in a gene of interest. This allows us to comprehensively investigate the sequence to function relationship at unprecedented scale.</p>
+
+<h6><i class='fas fa-briefcase-medical'></i> Precision medicine</h6>
+<p>Our lab is participating in the effort to systematically characterize all functional missense variation in human genes. Our goal is to determine disease risks such as cancer <i>before</i> manifestation of symptoms (shifting medicine to a preventive science), and to reveal genetic determinants of inter-personal differences in molecular pathology to design better treatments,  
+</p>
+<p style="align:center">
+<img src="/assets/images/UROS_normalized_fitness_mean.png" alt="" style="max-height:188;max-width:464" />
+</p>
