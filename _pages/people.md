@@ -173,7 +173,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/zaynab_profile.jpg
-    excerpt: "Zaynab Mamai<br>zaynab.mamai[at]mail.utoronto.ca<br>ROP student"
+    excerpt: "Zaynab Mamai<br>zaynab.mamai[at]mail.utoronto.ca<br>ROP student<br>Now at McMaster"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -198,7 +198,7 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/gauri_profile.jpg
-    excerpt: "Gauri Menon<br>gaurisans.menon[at]mail.utoronto.ca<br>ROP Student (2023)"
+    excerpt: "Gauri Menon<br>gaurisans.menon[at]mail.utoronto.ca<br>ROP Student (2023)<br>Now at Boston University"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
@@ -218,17 +218,17 @@ feature_row6:
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/joseph.jpg
-    excerpt: "Joseph Yu<br>yujoseph.yu[at]mail.utoronto.ca<br>ROP student (2023)"
+    excerpt: "Joseph Yu<br>yujoseph.yu[at]mail.utoronto.ca<br>ROP student (2023)<br>Now at Verily Health"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/sabina_profile.jpg
-    excerpt: "Sabina Parmegiani<br>sabina.parmegiani[at]mail.utoronto.ca<br>ROP student (2023)"
+    excerpt: "Sabina Parmegiani<br>sabina.parmegiani[at]mail.utoronto.ca<br>ROP student (2023)<br>Now at CNRL"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
   - image_path: /assets/images/sophia.jpg
-    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student (2022)<br>Now UTEA awardee in Ogata lab"
+    excerpt: "Sophia Alonzi<br>sophia.alonzi[at]mail.utoronto.ca<br>ROP student (2022)<br>Burke lab at UofT"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
