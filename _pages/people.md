@@ -61,12 +61,12 @@ feature_row4:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/ester_profile.png
     excerpt: "Ester Campos Perez<br>ester.camposperez[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/genome.png
+  - image_path: /assets/images/lucy_profile.png
     excerpt: "Lucy Carolan-Evans<br>lucy.carolanevans[at]mail.utoronto.ca<br>ROP student"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
@@ -113,7 +113,7 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     body_style: "flex-grow: 1"
-  - image_path: /assets/images/molly_profile.jpg
+  - image_path: /assets/images/molly_profile_2.png
     excerpt: "<b>Molly McDonald</b><br>
 		Molly is interested in variant effect mapping in humanized yeast models of porphyria and understanding genomic contextual effects. Molly is funded by an CIHR CGS-M. <br><br>molly.mcdonald[at]mail.utoronto.ca
 		"
