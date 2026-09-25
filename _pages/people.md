@@ -97,7 +97,7 @@ feature_row5:
     row_style: "display: flex; width:100%"
     teaser_style: "width:200px"
     style: "width:150px;"
-  - image_path: /assets/images/amelia_profile.jpg
+  - image_path: /assets/images/amelia_profile.png
     excerpt: "<b> Amelia Caron</b><br>
     	Amelia is interested in variant effect mapping in humanized yeast models. Amelia won the best BIO481 thesis in 2025 in the UTM Biology Department, was recipient of the Dean's Excellence Award in the category of Research Excellence, and is continuing her work for her MSc. <br><br>a.caron[at]mail.utoronto.ca
     	"
