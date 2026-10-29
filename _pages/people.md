@@ -207,7 +207,7 @@ feature_row6:
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
     style: "width:150px;"
-  - image_path: /assets/images/claire_profile.jpg
+  - image_path: /assets/images/claire_profile.png
     excerpt: "Claire Chochinov<br>claire.chochinov[at]mail.utoronto.ca<br>MSc student (2023)<br>Now at BioRender"
     body_style: "text-align: center;"
     teaser_style: "text-align: center;"
